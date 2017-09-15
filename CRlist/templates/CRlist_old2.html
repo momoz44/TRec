@@ -1,0 +1,174 @@
+{% load staticfiles %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Testing</title>
+    <link rel="stylesheet" href="../../static/css/bootstrap.css">
+</head>
+<body>
+<div class="container">
+	<div class="row clearfix">
+		<div class="col-md-12 column">
+			<nav class="navbar navbar-default" role="navigation">
+				<div class="navbar-header">
+					<a class="navbar-brand" href="../../index/">Home</a>
+				</div>
+
+				<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+
+				</div>
+
+			</nav>
+			<div class="page-header" align="center">
+				<h1>
+					Recommend list for {{ title.courseid }} <small>beta</small>
+				</h1>
+			</div>
+		</div>
+	</div>
+</div>
+
+<div class="container">
+	<div class="row clearfix">
+		<div class="col-md-12 column">
+
+            <form method="post" role="form" class="form-inline" align="center">
+                <label for="score_select">Score</label>
+                <select id="score_select" class="form-control selectpicker" data-live-search="true" name="score">
+                    {% for a in ff.score %}
+                        <p> {{ a }} </p>
+                    {% endfor %}
+                </select>
+
+                <label for="location_select">Location</label>
+                <select id="location_select" class="form-control selectpicker" multiple data-live-search="true" name="location">
+                    {% for a in ff.location %}
+                        <p> {{ a }} </p>
+                    {% endfor %}
+                </select>
+
+                <label for="language_select">Language</label>
+                <select id="language_select" class="form-control selectpicker" multiple data-live-search="true" name="language">
+                    {% for a in ff.language %}
+                        <p> {{ a }} </p>
+                    {% endfor %}
+                </select>
+
+                <label for="tc_select">Trained Before</label>
+                <select id="tc_select" class="form-control selectpicker" data-live-search="true" name="trained">
+                    {% for a in ff.trained %}
+                        <p> {{ a }} </p>
+                    {% endfor %}
+                </select>
+
+                <label for="status_select">Score</label>
+                <select id="status_select" class="form-control selectpicker" data-live-search="true" name="status">
+                    {% for a in ff.status %}
+                        <p> {{ a }} </p>
+                    {% endfor %}
+                </select>
+                <button type="submit" class="btn btn-primary btn-large">Filter</button>
+
+
+			</form>
+
+			<table class="table table-hover table-striped table-bordered">
+				<thead >
+					<tr bgcolor="#4682b4">
+						<th>
+							Name
+						</th>
+						<th>
+                            Location
+						</th>
+						<th>
+							Languge
+						</th>
+						<th>
+							Score
+						</th>
+                        <th>
+							Trained Course
+						</th>
+                        <th>
+							Status
+						</th>
+					</tr>
+				</thead>
+				<tbody>
+                {% if not tlist %}
+                <h4 align="center">Sorry, there's no matching trainers!</h4>
+                {% endif %}
+                {% for tr in tlist %}
+					<tr bgcolor='{% cycle "#f8f8ff" "#e6e6fa" %}'>
+						<td><a href='http://127.0.0.1:8000/tpage/{{ tr.id }}'>{{ tr.ln }}.{{ tr.fn }}</a></td>
+                        <td>{{ tr.location }} </td>
+                        <td>{{ tr.language }}</td>
+                        <td>{{ tr.score }}</td>
+                        <td>
+                            {% for cs in tr.trained_course.all %}
+                            {% if not forloop.first %}
+                                /
+                            {% endif %}
+                            {{ cs.courseid }}
+                            {% endfor %}
+                        </td>
+                        <td>{{ tr.status }}</td>
+					</tr>
+                {% endfor %}
+				</tbody>
+			</table>
+            {% if flist %}
+                <h4 align="center">Beyound filter but still recommend!</h4>
+
+                <table class="table table-hover table-striped table-bordered">
+				<thead >
+					<tr bgcolor="#4682b4">
+						<th>
+							Name
+						</th>
+						<th>
+                            Location
+						</th>
+						<th>
+							Languge
+						</th>
+						<th>
+							Score
+						</th>
+                        <th>
+							Trained Course
+						</th>
+                        <th>
+							Status
+						</th>
+					</tr>
+				</thead>
+				<tbody>
+                {% for tr in flist %}
+					<tr bgcolor='{% cycle "#f8f8ff" "#e6e6fa" %}'>
+						<td><a href='http://127.0.0.1:8000/tpage/{{ tr.id }}'>{{ tr.ln }}.{{ tr.fn }}</a></td>
+                        <td>{{ tr.location }} </td>
+                        <td>{{ tr.language }}</td>
+                        <td>{{ tr.score }}</td>
+                        <td>
+                            {% for cs in tr.trained_course.all %}
+                            {% if not forloop.first %}
+                                /
+                            {% endif %}
+                            {{ cs.courseid }}
+                            {% endfor %}
+                        </td>
+                        <td>{{ tr.status }}</td>
+					</tr>
+                {% endfor %}
+				</tbody>
+			    </table>
+            {% endif %}
+
+		</div>
+	</div>
+</div>
+</body>
+</html>

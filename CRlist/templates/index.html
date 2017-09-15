@@ -1,0 +1,47 @@
+{% load staticfiles %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Testing</title>
+    <link rel="stylesheet" href="../../static/css/bootstrap.css">
+</head>
+<body>
+<div class="container">
+	<div class="row clearfix">
+		<div class="col-md-12 column">
+            <hr>
+			<div class="jumbotron">
+                <h1 align="center">
+					Trainer Recommend Engine
+				</h1>
+				<p align="center">
+					This is a website for trainer's searching based on the course you search. We'll give out a list of recommended trainer for each single course. And also you can find similar trainers on a typical trainers page.
+				</p>
+
+
+                <form method="post" role="form" class="form-inline" align="center">
+                    <label for="id_select">Course</label>
+                    <select id="id_select" class="form-control selectpicker" data-live-search="true" name="course">
+                        {% for plat in cf.course %}
+                        <p> {{ plat }} </p>
+                        {% endfor %}
+
+                    </select>
+
+
+                    <button type="submit" class="btn btn-primary btn-large">Search</button>
+			    </form>
+			</div>
+		</div>
+	</div>
+</div>
+<hr>
+
+<blockquote>
+    <small align="center">
+        Beta
+    </small>
+</blockquote>
+</body>
+</html>

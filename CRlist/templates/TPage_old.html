@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Index</title>
+</head>
+<body>
+<em>
+<h1 align="center"> {{ title.ln }} {{ title.fn }}'Page</h1>
+</em>
+<a href="http://127.0.0.1:8000/index/">home page</a>
+<hr>
+<h3>Email:{{ title.email }}</h3>
+<h3>Skype:{{ title.skype }}</h3>
+<h3>Locations:{{ title.location }}</h3>
+<h3>Language:{{ title.language }}</h3>
+<h3>trained_course:
+    {% for cs in  title.trained_course.all %}
+                {% if not forloop.first %}
+                    /
+                {% endif %}
+                    {{ cs.courseid }}
+                {% endfor %}
+</h3>
+<h3>Score:{{ title.score }}</h3>
+<h3>Status:{{ title.status }}</h3>
+<h4>Comments:{{ title.comments }}</h4>
+
+
+<hr>
+<form method ='post' align="center">
+    {{ ff }}
+    <input type="submit" value="Filter" />
+</form>
+<hr>
+{% if not slist %}
+    <h4 align="center">Sorry, there's no matching trainers!</h4>
+{% endif %}
+    <h4 align="center">Similar Trainer</h4>
+{% for tr in slist %}
+
+    {% if forloop.first %}
+    <table align="center">
+        <tr bgcolor = '#cccccc'>
+            <td width="100">Name</td>
+            <td width="200">Location</td>
+            <td width="200">Languge</td>
+            <td width="50">Score</td>
+            <td width="'250">Trianed Course</td>
+            <td width="50">Status</td>
+        </tr>
+    {% endif %}
+        <tr bgcolor='{% cycle "#ffccff" "ccffcc" %}'>
+            <td><a href='http://127.0.0.1:8000/tpage/{{ tr.id }}'>{{ tr.ln }}.{{ tr.fn }}</a></td>
+            <td>{{ tr.location }}</td>
+            <td>{{ tr.language }}</td>
+            <td>{{ tr.score }}</td>
+            <td>
+                {% for cs in tr.trained_course.all %}
+                {% if not forloop.first %}
+                    /
+                {% endif %}
+                    {{ cs.courseid }}
+                {% endfor %}
+                    </td>
+            <td>{{ tr.status }}</td>
+        </tr>
+    {% if forloop.last %}
+    </table>
+    {% endif %}
+    {% empty %}
+
+{% endfor %}
+<hr>
+{% if flist %}
+    <h4 align="center">Beyound filter but still recommend!</h4>
+{% for tr in flist %}
+    {% if forloop.first %}
+    <table align="center">
+        <tr bgcolor = '#cccccc'>
+            <td width="100">Name</td>
+            <td width="200">Location</td>
+            <td width="200">Languge</td>
+            <td width="50">Score</td>
+            <td width="'250">Trianed Course</td>
+            <td width="50">Status</td>
+        </tr>
+    {% endif %}
+        <tr bgcolor='{% cycle "#ffccff" "ccffcc" %}'>
+            <td><a href='http://127.0.0.1:8000/tpage/{{ tr.id }}'>{{ tr.ln }}.{{ tr.fn }}</a></td>
+            <td>{{ tr.location }}</td>
+            <td>{{ tr.language }}</td>
+            <td>{{ tr.score }}</td>
+            <td>
+                {% for cs in tr.trained_course.all %}
+                {% if forloop.first %}
+                    {{ cs.courseid }}
+                {% endif %}
+                    /{{ cs.courseid }}
+                {% endfor %}
+                    </td>
+            <td>{{ tr.status }}</td>
+        </tr>
+    {% if forloop.last %}
+    </table>
+    {% endif %}
+    {% empty %}
+
+{% endfor %}
+{% endif %}
+
+</form>
+</body>
+</html>
