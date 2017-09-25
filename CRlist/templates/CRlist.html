@@ -3,10 +3,10 @@
 <head>
     <meta charset="UTF-8">
     <title>Testing</title>
-    <link rel="stylesheet" href="../../static/css/bootstrap.css">
+    <link rel="stylesheet" href="http://cdn.static.runoob.com/libs/bootstrap/3.3.7/css/bootstrap.min.css">
+	<script src="http://cdn.static.runoob.com/libs/jquery/2.1.1/jquery.min.js"></script>
+	<script src="http://cdn.static.runoob.com/libs/bootstrap/3.3.7/js/bootstrap.min.js"></script>
     <link rel="stylesheet" href="../../static/css/multiple-select.css">
-    <script src="../../static/js/bootstrap.min.js"></script>
-    <script src="../../static/js/jquery-2.1.3.min.js"></script>
     <script src="../../static/js/multiple-select.js"></script>
 
 
@@ -91,7 +91,7 @@
 
 			</form>
 
-			<table class="table table-hover table-striped table-bordered">
+			<table class="table table-hover table-striped table-bordered" id="table">
 				<thead >
 					<tr bgcolor="#4682b4">
 						<th>
@@ -112,6 +112,9 @@
                         <th>
 							Status
 						</th>
+                        <th>
+
+                        </th>
 					</tr>
 				</thead>
 				<tbody>
@@ -133,6 +136,95 @@
                             {% endfor %}
                         </td>
                         <td>{{ tr.status }}</td>
+                        <td>
+                            <button class="btn btn-primary btn-lg" type="button"  onclick="editInfo();">
+                                Not Fit
+                            </button>
+                            <!-- 模态框（Modal） -->
+                            <div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+                                <div class="modal-dialog">
+                                    <div class="modal-content">
+                                        <div class="modal-header">
+                                            <button type="button" class="close" data-dismiss="modal" aria-hidden="true">
+                                                &times;
+                                            </button>
+                                            <h4 class="modal-title" id="myModalLabel">
+                                                Feed Back
+                                            </h4>
+                                        </div>
+                                        <div name="test" id="test" class="modal-body">
+                                            {{ tr.ln }} {{ tr.fn }} not fit for
+                                            {{ title.courseid }}
+                                        </div>
+                                        <div class="modal-body">
+                                            Name:<input type="text" name="stuno" id="stuno" />
+                                            Cousre:<input type="text" name="cn" id="cn"/>
+
+                                        </div>
+                                        <div class="modal-body">
+                                            Reason:<input type="text" name="reas" id="reas" />
+
+                                        </div>
+                                        <div class="modal-footer">
+
+                                            <button type="button" class="btn btn-default" data-dismiss="modal">Close
+                                            </button>
+                                            <button type="button" class="btn btn-primary"  onclick="update();">
+                                                Submit
+                                            </button>
+
+                                            <script>
+                                                function editInfo(obj) {
+                                                    var id = $(obj).attr("id");
+                                                    //获取表格中的一行数据
+                                                    var stuno = document.getElementById("table").rows[2].cells[0].innerText;
+
+                                                    //向模态框中传值
+                                                    $('#stuno').val(stuno);
+
+                                                    $('#myModal').modal('show');
+                                                }
+
+                                            </script>
+
+
+
+                                           <script>
+                                               function update(obj) {
+
+                                                   var name = document.getElementById("table").rows[2].cells[0].innerText;
+                                                //获取模态框数据
+                                                var id = $(obj).attr("id");
+                                                var stuno = $('#stuno').val();
+                                                var cn = $('#cn').val();
+                                                var reas = $('#reas').val();
+                                                $.ajax({
+                                                    type: "post",
+                                                    url: "../../update/",
+                                                    data: "stuno=" + stuno+"&cn="+cn+"&reas="+reas,
+                                                    dataType: 'html',
+                                                    contentType: "application/x-www-form-urlencoded; charset=utf-8",
+                                                    success: function(result) {
+                                                        alert("Thanks for the feedback");
+                                                        //location.reload();
+                                                    }
+                                                });
+                                                $('#myModal').modal('hide');
+                                                $("#myModal").on("hidden.bs.modal", function() {
+                                                     $(this).removeData("bs.modal");
+                                                                        });
+                                            }
+                                           </script>
+
+
+                                        </div>
+                                    </div><!-- /.modal-content -->
+                                </div><!-- /.modal -->
+                            </div>
+
+
+                        </td>
+
 					</tr>
                 {% endfor %}
 				</tbody>
@@ -161,6 +253,9 @@
                         <th>
 							Status
 						</th>
+                        <th>
+
+                        </th>
 					</tr>
 				</thead>
 				<tbody>
@@ -179,6 +274,9 @@
                             {% endfor %}
                         </td>
                         <td>{{ tr.status }}</td>
+                        <td>
+
+                        </td>
 					</tr>
                 {% endfor %}
 				</tbody>
