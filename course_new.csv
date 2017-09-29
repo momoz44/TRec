@@ -1,0 +1,1585 @@
+,cate,course_code,entity_id,title
+0,[u'GIT'],gitusers,345,Git for Users
+1,[u'Oracle'],453,453,Oracle: (1ZO-147) Program with PLSQL
+2,"[u'CSS', u'Web Development', u'Computer Graphics']",css3int,3465,Introduction to CSS3
+3,"[u'Linux', u'Ubuntu']",ubtdt,300,Ubuntu Desktop
+4,[u'Android'],androidtest,367,Android Applications Testing
+5,[u'Blockchain'],blockchain,153393,Blockchain - Theory and Practice
+6,[u'Soft Skills'],timeds,191125,Time Management
+7,"[u'BPM', u'BPMN', u'OCEB']",oceb2f100-1,114882,OCEB2 OMG Certified Expert in BPM - Fundamental Exam Preparation (5 days)
+8,[],oracleebsfundamentals,207149,Oracle E-Business Suite Fundamentals
+9,[u'Finance'],cbpst,23716,"Corporate Banking:  Products, Strategies and Trends"
+10,"[u'TestNG', u'Test Automation', u'Automation Testing']",testng,141125,Testing with TestNG
+11,"[u'C#', u'C Language', u'Microsoft .NET', u'C-sharp', u'Cross Platform Development', u'Visual Studio', u'Developer']",advancedcsharp,200408,Advanced Programming in C#
+12,"[u'Test Automation', u'Automation Testing', u'JMeter']",jmeterfun,245,JMeter Fundamentals
+13,"[u'Neural Networks', u'Business Rules', u'Machine Learning', u'Artificial Intelligence']",aiauto,153856,Artificial Intelligence in Automotive
+14,"[u'digital marketing', u'Social Media']",digimarketing,205385,Digital Marketing
+15,[u'Management'],comawa,2943,Commercial Awareness
+16,"[u'HTML', u'Drupal']",drupalseo,332,Drupal SEO
+17,[],mcsawin8,113899,4.- MEJORA TUS HABILIDADES PARA MCSA WINDOWS 8
+18,"[u'Business', u'Hadoop', u'Big Data', u'Business Analysis']",hadoopba,113243,Hadoop for Business Analysts
+19,"[u'Performance', u'Java']",javaperf,302,Java Performance 
+20,[],Semwebbe,209141,Bespoke Semantic Web Training Course
+21,"[u'JavaScript', u'Microsoft Authorised']",ms-20482,68895,MS-20482 Advanced Windows Store App Development using HTML5 and JavaScript MTA Exam  70-482
+22,[u'Test Automation'],TestComplete,209385,TestComplete
+23,[u'Node.js'],nodejspm2,116050,Node.js and PM2
+24,[u'Assertiveness'],862,862,Building an Effective Team with Belbin Team Roles
+25,[u'TensorFlow'],tfir,134789,TensorFlow for Image Recognition
+26,[u'MATLAB'],simulinkadv,198633,Simulink® for Automotive System Design Advanced Level
+27,[],Chefad,201289,Chef Advanced
+28,"[u'Red Hat', u'Debian', u'Cloud Computing', u'Linux', u'Ubuntu']",lcsmcentos,90034,Linux Cluster and Storage Management on CentOS 6 & 7
+29,"[u'Web Development', u'PHP', u'Web application framework']",laravel,202128,Laravel: Build rapid and elegant web applications with the Laravel PHP Framework
+30,[u'MATLAB'],ecmloct,67597,Evolutionary computation with MATLAB/OCTAVE
+31,"[u'Android', u'Mobile Programming', u'iOS', u'Cross Platform Development', u'Mobile Development']",mobdevdm,4,Mobile Development - An Overview for Decision Makers
+32,"[u'Software Engineering', u'MBSE', u'SysML', u'UML']",sysengsysmluml2,96724,System Engineering using SysML and UML 2
+33,[u'OCRES'],ocres200,390,OMG Certified Real-time and Embedded Specialist (OCRES) - Intermediate Exam Preparation
+34,"[u'Functional programming', u'Java', u'Programming']",scalaadvancedfunctional,208841,Scala: Advanced functional programming
+35,"[u'SQL Server BI', u'Access', u'Data Mining', u'Data Visualization', u'Excel']",PowerBIPL,199449,Analiza danych z zastosowaniem Power BI
+36,"[u'Statistics', u'Six Sigma']",sixsigmagbfast,207649,Six Sigma Green Belt - Fast Track
+37,"[u'Brand Management', u'Marketing']",b2bbrandman,338,B2B Brand Management
+38,[],MOS112,191921,Advanced C++ Software Design
+39,[u'Requirements Engineering'],piwa,8558,Podstawy inżynierii wymagań i analizy
+40,[u'Statistics'],stats1,309,Statistics Level 1
+41,[u'Parallel Computing'],openmpi,209529,Open MPI: Building distributed memory applications
+42,"[u'PowerPoint', u'Microsoft Office', u'Excel']",bexppt,153337,Practical MS Excel and PowerPoint
+43,[],siebelscripting,207121,Siebel for Developers: Scripting
+44,[u'Secure Code'],cl-osc,155025,The Secure Coding Landscape
+45,"[u'Pentaho', u'Data Mining', u'Big Data', u'Data Analysis', u'Business Intelligence']",PentahoDI,209137,Pentaho Data Integration Fundamentals
+46,"[u'Java EE', u'Tomcat']",atomjeeadm,2387,Apache Tomcat and Java EE Administration
+47,"[u'Data Mining', u'Data Visualization']",datavis1,143833,Data Visualization
+48,[u'MATLAB'],simwcs,116058,Simulation of Wireless Communications Systems using MATLAB
+49,[u'MATLAB'],ipmat1,145969,Introduction to Image Processing using Matlab
+50,[],structuralengineering,208717,Introduction to Structural Engineering
+51,[u'Soft Skills'],custds,191117,Excellent Customer Service 
+52,[u'Data Mining'],pmml,68680,Predictive Models with PMML
+53,"[u'Kubernetes', u'Docker']",dockkuber,206701,Kubernetes - Advanced
+54,[u'Ansible'],advans,134929,Advanced Automation with Ansible
+55,"[u'TensorFlow', u'NLP']",tsflw2v,141181,Natural Language Processing with TensorFlow
+56,[],ADSQL,130149,SQL Advanced
+57,"[u'Scrum', u'Agile', u'Project Management', u'Technologies Overview']",scrummanexec,325,Scrum for Managers and Executives
+58,"[u'Statistics', u'Data Mining', u'Business Analysis']",datama,99817,Data Mining and Analysis 
+59,[u'Business Analysis'],badsp,530,Introduction to Business Analysis: Defining Successful Projects
+60,"[u'RSpec', u'Ruby', u'Software Testing']",rspectest,94309,Testing Ruby applications with RSpec
+61,[],sapabap,155789,SAP Advanced Business Application Programming (ABAP) 
+62,[],itilso,68487,ITIL®: Intermediate Lifecycle Stream: Service Operation (SO)
+63,"[u'Dashboard', u'Elasticsearch']",kibana,207517,Kibana: Essentials
+64,[u'Soft Skills'],3108,3108,Psychology of interpersonal cooperation
+65,[u'Node.js'],nodejspm2web,135069,Node.js Working with PM2 & WebStorm
+66,[u'Computer Graphics'],3032,3032,Design and Composition in Photography
+67,"[u'SOA', u'Web Services']",wsbnp,3800,Web Services Basics for Non-Programmers
+68,"[u'BPMN', u'Business Analysis']",bpmna,3140,BPMN for Analysts
+69,"[u'Microsoft Office', u'Excel']",3024,3024,Working with spreadsheet in Microsoft Excel
+70,[u'Oracle'],373,373,Oracle Database 11g: New Features for Administrators DBA Release 2
+71,"[u'Professional Development', u'Management']",presconf,531,Presenting with Confidence
+72,[],AMOS11,191925,Introduction to ARM Cortex M Architecture
+73,"[u'VBA', u'Excel VBA', u'Excel']",3089,3089,Visual Basic for Applications (VBA) in Excel (intermediate level)
+74,[u'Symfony'],sym2propel,192776,Symfony2 - framework klasy enterprise
+75,"[u'SOA', u'SOA Governance', u'SoaML', u'SOA ESB Integration']",soaarch01,68725,SOA Architect
+76,"[u'BDD', u'Agile', u'Software Testing']",bddfornonprogrammers,207441,BDD for Non-Programmers: Live workshop
+77,[u'LMS'],moodleinstructor,208725,"Moodle for Instructors, Trainers, and Course Creators"
+78,"[u'VBA', u'Excel VBA', u'Excel']",excelvbai,241,Excel VBA Introduction
+79,[u'Impala'],Imp,132220,Impala for Business Intelligence
+80,[u'Real Time Services over IP'],siptel,3703,Practical SIP Telephony
+81,"[u'Soft Skills', u'Management']",809,809,Introduction to Lean Six Sigma green belt 
+82,"[u'Linux', u'Samba', u'Directory Services', u'Ubuntu']",sambadv,142893,Samba 
+83,"[u'Adobe', u'Photoshop', u'Computer Graphics']",3626,3626,Adobe Photoshop Elements
+84,[u'Java'],javaadvanced,143204,Java Advanced - one day
+85,[u'RPA'],rpaimplementing,207665,RPA: Implementing Robotic Process Automation
+86,"[u'JavaScript', u'Node.js', u'Programming']",nodejs,3815,Node.js
+87,[],Leader,203797,Leadership
+88,"[u'SOA', u'XML']",soaovv,98101,SOA Overview
+89,"[u'Oracle', u'PL/SQL']",3410,3410,Oracle 11g - Programming with PL / SQL I - Workshops
+90,"[u'Microsoft Office', u'Excel']",ExcelAdv,3034,Excel Advanced
+91,"[u'IoT', u'Data Mining', u'Big Data', u'Computer']",bdbiga,23436,Big Data Business Intelligence for Govt. Agencies
+92,"[u'Strategic Management', u'Strategic Planning', u'NHS']",stratplanNHS,200453,Strategic Planning National Health Service NHS
+93,"[u'Soft Skills', u'Management']",traintrainer,532,Train-the-Trainer
+94,"[u'Scrum', u'Agile', u'Project Management']",scrumstep,716,Scrum - Step by Step
+95,[u'SOA'],soabusi,272,SOA: the Business View
+96,"[u'Person To Person Skills', u'Working In A Team', u'Management', u'Professional Development', u'Assertiveness', u'Human Resources']",Influence,199741,Influence in Action
+97,"[u'Node.js', u'Express', u'AngularJS', u'Angular', u'MEAN Stack', u'MongoDB', u'JavaScript', u'Web Development']",mean2,205773,Building Web Apps using the MEAN stack - Bespoke
+98,"[u'JavaScript', u'Web Development', u'Ajax', u'Java']",gwt,209012,"GWT: Write Ajax web applications in Java, deploy as Javascript"
+99,[u'Human Resources'],hip,507,High Impact Presentations
+100,[u'Rust'],rust3d,199865,Rust Language
+101,"[u'Mobile Programming', u'Android', u'Cross Platform Development', u'Mobile Development', u'JavaScript', u'iOS']",ionic1angular1,208705,Ionic1: Build a mobile app with Ionic 1 and Angular 1
+102,[],SocAcc,203813,Social Accountability
+103,"[u'Soft Skills', u'Management']",rcefec,99898,Reclutamiento y  Contratacion Efectiva
+104,"[u'AWS', u'Cloud Computing']",awspaas,202964,AWS: A hands-on introduction to cloud computing
+105,[],soasoagovernance,152861,SOA and SOA Governance
+106,"[u'MSSQL', u'SQL']",6552,6552,Administracja bazą danych Microsoft SQL Server 2012
+107,"[u'Enterprise Architecture', u'Web Services', u'XML']",soastm,5078,"Service-Oriented Architecture: Strategy, Technology and Methodology"
+108,"[u'MATLAB', u'Programming']",matlabprog,2842,MATLAB Programming
+109,"[u'GlassFish', u'Java EE', u'Java']",gfadm,3249,GlassFish Administration
+110,[u'C-sharp'],pamvc5,356,Programming in ASP.NET MVC 5
+111,"[u'Database', u'VBA', u'Excel']",3165,3165,Visual Basic for Applications (VBA) and Databases
+112,"[u'Business Motivation Model', u'Agile', u'Technologies Overview', u'Business Analysis']",eaptogafc,96709,Adapting Business Capabilities and 'Value Propositions' to Changes 
+113,"[u'Android', u'Mobile Programming', u'React', u'iOS', u'Cross Platform Development']",reactnativeexpo,205437,React Native Expo: simplifying the creation and deployment of your React Native application
+114,[u'Quality Engineering'],zconfz,8973,Zarządzanie konfiguracją i zmianami
+115,[u'Wireshark'],nettbswsadv,94281,Advanced Network Troubleshooting Using Wireshark
+116,"[u'Scrum', u'Agile']",scrumtrintro,861,An Introduction to the Scrum Team Role
+117,[u'Requirements Engineering'],mwpm,8970,Modelowanie wymagań – przegląd metod
+118,"[u'Strategic Management', u'Advertising', u'Brand Management', u'Marketing']",myccmr,114606,"Marketing for your company: Understand customer, do marketing right"
+119,[u'Java'],javaprog,3058,Java Programming
+120,"[u'Embedded Linux', u'Linux', u'Embedded Systems']",elnxint,100110,Introduction to Embedded Linux (Hands-on training)
+121,[],bspkrintro,98128,R Fundamentals
+122,"[u'BDD', u'Automation Testing', u'Software Testing', u'Requirements Engineering', u'Test Automation', u'Agile', u'Web Application Testing', u'Web Development', u'Java']",jbehave,209625,JBehave: BDD with Java
+123,"[u'Game Development', u'Mobile Programming', u'Cross Platform Development', u'Corona']",appcorona,97443,App programming for Mobile devices using the Corona SDK
+124,"[u'JBoss', u'Business Rules', u'Jboss Rules', u'Drools']",droolsdslba,113802,Drools 6 and DSL for Business Analysts
+125,"[u'Enterprise Architecture', u'DoDAF']",dodafint,435,Department of Defense Architecture Framework (DoDAF) Overview
+126,[u'Assertiveness'],313,313,Springboard Women Development Programme
+127,"[u'Person To Person Skills', u'Soft Skills', u'Mentoring', u'Coaching', u'Management', u'Great Communicator']",xyz,202137,Róznice pokoleniowe w zarządzaniu. Pracownicy pokoleń XYZ. Jak z nimi funkcjonować
+128,[u'Drupal'],drupalviews,637,Drupal Views Module
+129,"[u'BPM', u'BPMN', u'BPMS', u'Business Analysis']",ubpmbpmn2,153065,Understanding Business Process Modeling with BPMN 2.0
+130,"[u'Statistics', u'Data Visualization', u'R', u'Python', u'Big Data', u'Data Analysis', u'Data Mining']",BigData,199416,Introduction to Data Analysis and Big Data
+131,[],itilst,68486,ITIL®: Intermediate Lifecycle Stream: Service Transition (ST)
+132,"[u'RPA', u'Microsoft .NET']",UiPath,208333,UIPath: Deploying a Robotic Workforce
+133,[u'Oracle'],471,471,Oracle Database 11g: SQL Fundamentals I (IZO-051)
+134,"[u'Apache Spark', u'Business Intelligence', u'Apache', u'Big Data', u'Hadoop', u'Data Mining']",sparkhadoop,201373,Handle Big Data with Apache Spark and Hadoop
+135,[u'Secure Code'],cl-csc,154749,C/C++ Secure Coding
+136,"[u'Test Automation', u'Web Application Testing', u'Automation Testing', u'Software Testing']",tosca,204993,Tosca: Model-based testing for complex systems
+137,[u'Test Automation'],intrautes,192509,Introduction to Automated Testing
+138,[u'Data Network'],datacomnet,94282,Data Communications Networks - Theory and Practice
+139,"[u'MariaDB', u'Database', u'SQL', u'MySQL']",mariadbadmin,398,MariaDB Database Administration
+140,[u'Soft Skills'],kulti,143065,Różnice międzykulturowe w pracy zespołowej
+141,"[u'Project Management', u'Excel']",ExPrVisP,199201,Excel - Wizualizacja postępu prac projektowych
+142,[],FoodS,203829,Food safety standards
+143,[],sqlvbanonit,192865,SQL For Beginner + VBA Basics
+144,"[u'Hadoop', u'Big Data', u'NoSQL']",voldemort,201556,Voldemort: Setting up a key-value distributed data store
+145,"[u'Scrum', u'Agile', u'Project Management']",agilepz,95346,Agile w projektach zdalnych
+146,"[u'LXC', u'Virtualization']",lxcintro,113858,Introduction to Linux Containers (LXC)
+147,[u'Soft Skills'],2899,2899,Effective communication skills 
+148,"[u'Data Mining', u'Big Data', u'Artificial Intelligence']",datamin,66209,Data Mining
+149,"[u'JavaScript', u'Programming']",jvbsc,201593,Javascript Basics
+150,"[u'Web Development', u'Web application framework', u'Java']",springboot,203204,Spring Boot: Rapidly build Spring-based web applications
+151,"[u'Scrum', u'Strategic Management', u'Risk Management', u'Management', u'Agile', u'Project Management']",pazzitsa,8975,Psychologiczne aspekty zarządzania zespołem IT – psychologia zespołu Scrum agile
+152,"[u'event stream processing', u'Big Data', u'Stream processing']",samza,209481,Samza for stream processing
+153,"[u'Internet Security', u'Hands on Security']",pkiimpman,94166,PKI: Implement and Manage
+154,"[u'MediaWiki', u'Wiki', u'Wikipedia']",wikiedit,352,Wikipedia for Editors
+155,"[u'IP Security', u'Cisco Security']",wciosd,3756,Workshop for Cisco IOS Devices Implementing IPSec using Certificate Authentication via a Windows 2008 R2 CA
+156,"[u'Database', u'MySQL']",zamysql,23214,Zaawansowana administracja MySQL
+157,[u'Statistics'],mtstatda,318,Minitab for Statistical Data Analysis
+158,"[u'MATLAB', u'Data Mining', u'Big Data']",matlab2,97449,MATLAB Fundamentals
+159,[u'Agile'],agilesofttest2,115015,持续集成理论、原则与实践
+160,"[u'MSSQL', u'Database', u'Programming', u'Oracle', u'SQL']",rekit,203937,Szkolenie dla rekruterów IT - programowanie?
+161,[u'Drupal'],webappd7,366,"Building Web Applications with Drupal 7, Views, Fields and Panels"
+162,"[u'Android', u'Augmented Reality']",rraram,97766,Rzeczywistość rozszerzona (Augmented Reality - AR) w aplikacjach mobilnych
+163,"[u'Brand Management', u'Change Management', u'Management']",DivInc,191905,Diversity and Inclusion Training 
+164,"[u'Data Visualization', u'Data science', u'Big Data', u'Data Analysis', u'Business Intelligence']",zeppelin,209477,Zeppelin for interactive data analytics
+165,[],oostor,201153,Manage data and information with the Object Storage
+166,[u'Bio'],bioinfbas,396,Basics of Bioinformatics
+167,"[u'Big Data', u'NoSQL']",bigdatastore,113105,Big Data Storage Solution - NoSQL
+168,"[u'Embedded Linux', u'Linux', u'Cross-platform development']",ldd,202685,Embedded GNU/Linux Kernel Internals and Device Drivers
+169,"[u'Inkscape', u'Computer Graphics']",inkscape,741,Inkscape
+170,[u'UML'],umlocl1,97136,UML OCL
+171,"[u'Virtualization', u'Docker']",dockeradm2,208549,Docker for Developers and System Administrators - Bespoke
+172,[],custocassan,198981, Cassandra Customized training
+173,"[u'Statistics', u'Bio']",statsres,376,Statistics for Researchers
+174,[u'Blockchain'],blockchainenm,192437,Blockchain for Entrepeneurs and Managers
+175,[u'Soft Skills'],812,812,New Supervisor Training
+176,[u'Apache Camel'],apachecamel,89818,Apache Camel
+177,"[u'SQL', u'Oracle', u'PL/SQL']",SQL12c1,155197,Oracle 12c – wprowadzenie do języka SQL
+178,[],intrpr,201217,Introduction to Machine Learning and Deep Learning with Python and R
+179,[u'Oracle'],66538,66538,Build applications with Oracle Application Express (APEX)
+180,"[u'Swift', u'iOS', u'Programming']",ios8xcode6devs,74886,iPhone and iPad Development in Swift for iOS 8 and Xcode 6
+181,[u'Java EE'],OpenSearchServer,209073,OpenSearchServer
+182,"[u'XQuery', u'eXist-db']",existdb,8,eXist-db Development and Performance
+183,"[u'Business Rules', u'Artificial Intelligence']",manbrphp,68366,Managing Business Rules with PHP Business Rules
+184,"[u'IIS', u'Microsoft .NET', u'Web Server']",iis8aspadm,95106,IIS 8 and ASP.NET Administration
+185,"[u'Enterprise Architecture', u'MODAF']",modafint,434,MOD Architecture Framework (MODAF) Overview
+186,"[u'C-sharp', u'Python', u'C#', u'Programming', u'JavaScript', u'Java']",3627,3627,Introduction to Programming
+187,"[u'SQL', u'Oracle', u'PL/SQL']",SQL_AN2,155193,Oracle 12c – Język SQL dla analityków II - warsztaty
+188,"[u'BPM', u'BPMN', u'BPMS', u'Business Analysis', u'Activiti']",activitidev,99511,Activiti for Process Developers
+189,"[u'Internet Security', u'Hands on Security']",ccsk,94170,CCSK - Certificate of Cloud Security Knowledge - Plus
+190,"[u'Embedded Linux', u'Linux', u'Cross Platform Development', u'Embedded Systems']",elkdd,100117,Embedded Linux Kernel and Driver Development 
+191,"[u'Statistics', u'R']",rdataana,6,R for Data Analysis and Research 
+192,"[u'Responsive Design', u'Web Design']",foundation,209069,Foundation responsive front-end framework
+193,[u'Embedded Systems'],rtos,197757,Real Time Operating System
+194,"[u'Adobe', u'InDesign']",aidsg,3084,Adobe InDesign
+195,"[u'Image Analysis', u'Deep Learning', u'Artificial Intelligence']",PaddlePaddle,209125,PaddlePaddle
+196,"[u'Assertiveness', u'Soft Skills', u'Management']",66278,66278,Bezstresowe zarządzanie sobą w czasie - jak mieć zawsze określone cele i być efektywnym w ich realizacji.
+197,"[u'Microsoft Office', u'Word']",3052,3052,MS Word Basic
+198,"[u'TCP/IP Networking', u'Linux']",dnsandbind,202028,"DNS and BIND: Setting up, managing, and securing your DNS server"
+199,[],intramart,207373,Intramart: Implementing JavaEE Business Web Applications
+200,"[u'Hadoop', u'Stream processing']",tigon,209657,Tigon: Real-time streaming for the real world
+201,"[u'C-sharp', u'Microsoft .NET']",wfcsn,447,Windows Forms with C#.Net
+202,[u'FUML'],fumlintro,432,Introduction to FUML
+203,"[u'BDD', u'Automation Testing', u'Software Testing', u'Selenium', u'Test Automation', u'Web Application Testing', u'Java']",cucumberjava,209641,Cucumber: Implementing BDD with Java
+204,[u'Drupal'],drupal8webapp,286,"Building Web Applications with Drupal 8, Views, Fields and Panels"
+205,"[u'C-sharp', u'Microsoft .NET']",820,820,ADO.NET 4.0 Development
+206,"[u'Test Automation', u'Agile', u'Software Testing']",agilecat,2949,Certified Agile Tester
+207,[],bspsalt,201533,Bespoke 2 day Saltstack
+208,"[u'BPM', u'BPMN', u'BPMS', u'Automated Business Process Discovery (ABPD)', u'Business Analysis', u'Data Mining']",processmining,200312,Process Mining
+209,"[u'Design Patterns', u'Business Analysis']",oobdp,96722,Object Oriented Design using Design Patterns
+210,"[u'XQuery', u'eXist-db']",existdbint,9,eXist-db Introduction
+211,"[u'MongoDB', u'NoSQL']",mongodbau,98157,MongoDB for Advanced Users
+212,"[u'C-sharp', u'C#', u'Microsoft .NET', u'Programming']",pjcs,66242,Programming in C#
+213,[u'Nagios'],nagioscore,68550,Nagios Core
+214,[u'Soft Skills'],motivds,191113,Motivating Employees 
+215,[u'Adobe'],3035,3035,Adobe Flash Basic
+216,"[u'Statistics', u'Six Sigma']",sixsigmabbfast,207653,Six Sigma Black Belt - Fast Track
+217,[u'Train The Trainer'],12,97968,Innovation in training
+218,[u'Microsoft Authorised'],ms-40363,68859,MS-40363 Web Development Fundamentals MTA Exam 98-363
+219,"[u'Cloud Computing', u'IaaS']",softlayer,146337,SoftLayer API Fundamentals
+220,[u'Linux'],linuxnetsec,3068,Network Security in Linux
+221,"[u'Scrum', u'KanBan', u'Agile']",safeTM03,117038,SAFe® 4.0 for Teams  (For onsite delivery as part of a real-world Agile Release Train)
+222,[u'Soft Skills'],Negskills0017,209009,Negotiation Skills
+223,[u'Risk Management'],lendapp,552,Lending Applications
+224,[],dru8besp,208329,Drupal 8 Bespoke Training Course
+225,"[u'Enterprise Architecture', u'Business Motivation Model', u'Agile', u'Technologies Overview', u'Business Analysis']",eaintro1,96708,Introduction to Enterprise Architectures
+226,"[u'Quality Engineering', u'DevOps', u'Agile', u'Software Engineering', u'Jenkins']",jenkins,199469,Jenkins: Continuous integration for Agile development
+227,[u'Secure Code'],cl-and,154993,Android Security
+228,[u'Drupal'],drpal8views,246,Drupal 8 Views Module
+229,"[u'Internet Security', u'Security Management']",pki,97463,Public Key Infrastructure
+230,[u'Python'],pythfund,201269,Python Fundamentals
+231,[u'Linux'],linuxadmfun,95089,Linux Administration Fundamentals
+232,[u'Java'],javah,3061,Java Hibernate
+233,"[u'Performance Testing', u'Web Application Testing', u'Software Testing']",8521,8521,Tester doskonały
+234,"[u'Apache Spark', u'R', u'Python', u'Big Data', u'Data Analysis', u'Predictive Analytics', u'Neural Networks', u'Hadoop']",preddata,197885,Predictive Analytics & Big Data 
+235,[u'OpenStack'],osai,97151,OpenStack Administration - Intermediate
+236,"[u'Automation Testing', u'Software Testing', u'Selenium', u'Test Automation', u'Python', u'Selenium Webdriver', u'Web Application Testing']",seleniumpython,206313,Selenium with Python for test automation
+237,"[u'Red Hat', u'Linux', u'SQL', u'MariaDB', u'Apache', u'Debian', u'Database', u'MySQL', u'Web Server', u'Ubuntu']",dnswebmaildb,90049,"Top 4 Linux/Unix Servers - DNS,Web,Mail and Database "
+238,[],sapfscm,155785,SAP Financial Supply Chain Management (FSCM) 
+239,"[u'Yocto Project', u'Embedded Linux', u'Linux', u'Systems Architecture', u'Cross-platform development']",eglisa,202681,Embedded GNU/Linux Systems Architecture
+240,[],nagiosbspk,97456,Nagios
+241,[u'Secure Code'],cl-sts,154893,Security Testing
+242,[u'OCRES'],ocres300,391,OMG Certified Real-time and Embedded Specialist (OCRES) - Advanced Exam Preparation
+243,[u'Advantage Digital'],advtemp,199493,Advantage Digital – Benefit Letter Templates
+244,[u'Embedded Systems'],cembedd,197745,C Programming for Embedded Systems
+245,[u'Android'],androidwidget,369,Android App Widgets Development
+246,"[u'Web Development', u'Web Services', u'Web']",cmsjoomla,191137,CMS Joomla
+247,[u'Linux'],3063,3063,Introduction to Linux
+248,[u'Hadoop'],68737,68737,Hadoop for Data Analysts
+249,"[u'MediaWiki', u'Wiki', u'Wikipedia']",mwedit1,2662,MediaWiki for Content Editors
+250,[],advancedddd,209049,Advanced Domain Driven Design 
+251,"[u'TCP/IP Networking', u'Cisco Security']",3712,3712,Cisco CCNA Syllabus in 5 Days
+252,[],QMS,203789,ISO 9001 implementation
+253,"[u'Information Security Risk', u'Internet Security']",pcbc,94171,PCBC - Practitioner Certificate in Business Continuity Management
+254,[u'Programming'],2371,2371,CICS Command Level Programming
+255,"[u'R', u'Data Mining', u'Big Data']",rprogda,114674,R Programming for Data Analysis
+256,[u'SQL'],416,416,Introduction to Firebird
+257,"[u'Corporate Compliance', u'Corporate Governance', u'Risk Management', u'Strategic Management', u'Management']",grmcfun,113157,"Governance, Risk Management & Compliance (GRC) Fundamentals"
+258,[u'web2py'],web2py,135053,Web Development with Web2Py
+259,"[u'OpenLDAP', u'Directory Services', u'LDAP']",oldaplnxsys,91453,OpenLDAP for Linux Systems
+260,"[u'Performance Testing', u'Web Application Testing', u'Software Testing']",istqbTA,206425,ISTQB Test Analyst
+261,[u'Soft Skills'],stakehol,199345,Stakeholder engagement and management –  budowanie systemu wsparcia dla projektu
+262,[u'Performance Testing'],testistqb,8520,Kierownik testów ISTQB
+263,"[u'Statistics', u'Data Visualization', u'R', u'Big Data', u'Data Analysis', u'Predictive Analytics', u'Data Mining']",kdd,200632,Knowledge Discover in Databases (KDD)
+264,[u'MQL4'],mql4prog,430,MQL4 Programming
+265,[],bspai,204597,Bespoke AI Talk
+266,[u'Secure Code'],cl-vip,154989,Voice Over IP Security
+267,"[u'MongoDB', u'NoSQL']",mongodbadmin,405,MongoDB for Administrators
+268,"[u'Statistics', u'Quantitative Analytics']",descstats,95343,Descriptive Statistics
+269,[u'Microsoft .NET'],corenet2dev,442,Core Foundations of .NET 2.0 Development
+270,[u'Management Accounting'],pricestrat,385,A Practical Guide to Successful Pricing Strategies
+271,[],bcne,154477,Basics of Computer Networks for engineer
+272,"[u'Corporate Governance', u'Financial Crime']",amlctf,491,Anti-Money Laundering (AML) and Combating Terrorist Financing (CTF)
+273,[u'Excel'],msexcelil,100069,MS Excel - Intermediate / Advanced level (customized)
+274,[u'Magento'],magento,142965,Deploying Magento 2.1 for eCommerce
+275,[u'XML'],msdxml,667,Modelowanie struktury dokumentu XML
+276,"[u'Linux', u'Programming']",bashp1,3069,BASH Programming
+277,"[u'Scrum', u'Agile', u'Project Management']",agiletest,152865,Rola testera w Agile
+278,[],itilsoa,68491,ITIL®: Intermediate Capability Stream: Service Offerings & Agreements (SOA)
+279,"[u'Database', u'SQL']",dbwarefund,146469,Data Warehousing Design Fundamentals 
+280,"[u'Management', u'Microsoft Office', u'Business Analysis', u'Excel']",68615,68615,Microsoft Office Excel - moduł Business Intelligence
+281,"[u'Data science', u'Machine Learning', u'Neural Networks', u'Artificial Intelligence', u'Deep Learning']",Fairseq,207853,Fairseq: Setting up a CNN-based machine translation system
+282,"[u'Scrum', u'Agile']",scrumbelbintr,863,Building an Effective Scrum Team with Belbin Team Roles
+283,[u'Data Network'],radioat,114915,Radio Access Technology from 2G to 4G
+284,"[u'Software Engineering', u'DevOps', u'Developer', u'Docker']",dockerswarm,200657,Docker with Swarm
+285,"[u'JavaScript', u'jQuery', u'AngularJS', u'Angular2']",webapp1,153457,Web Application Development
+286,[],oracleap,141993,Oracle Apps Technical Online Training
+287,[u'Bio'],mdlbiostruct,393,Modeling of Biological Structures
+288,"[u'Database', u'Oracle', u'SQL']",osqlint,67603,Oracle SQL Intermediate
+289,[u'Liferay'],liferaydev,98998,Liferay Development 
+290,"[u'Database', u'Oracle', u'SQL']",3057,3057,Oracle SQL Language
+291,"[u'Test Automation', u'Design Patterns', u'Software Testing', u'Property-based testing']",ScalaCheck,209393,ScalaCheck property-based testing
+292,"[u'SOA', u'SoaML', u'Software Design', u'BPM', u'Business Analysis']",soadtbs,96723,Designing SOA using BPM and SoaML
+293,"[u'Internet Security', u'Security Management']",cismp,94162,CISMP - Certificate in Information Security Management Principles
+294,[u'Symfony'],symfewf,2880,Symfony2 - enterprise web framework
+295,"[u'JBoss', u'Jboss Rules', u'jBPM', u'Drools']",droolsrlsadmscaling,207725,Drools Rules Administration and Scaling
+296,"[u'Scribus', u'Computer Graphics']",sribcp,3172,Scribus - Composition of the publication
+297,"[u'Database', u'Oracle', u'SQL']",3331,3331,Oracle 11g - Advanced data analysis - workshops
+298,"[u'JavaScript', u'HTML5', u'Artificial Intelligence']",pghtml5js,67961,Programowanie gier w HTML5 i JavaScript
+299,"[u'Finance', u'Management']",rcbd,535,Retail and Commercial Banking Delivery Channel Masterclass
+300,"[u'Kubernetes', u'Virtualization', u'Docker']",dockerkubernetesscale,208021,Docker and Kubernetes: Building and scaling a containerized application
+301,"[u'Database', u'Oracle', u'SQL']",3319,3319,Data Analysis with Oracle 11g - workshop
+302,"[u'Functional programming', u'Programming']",clojure,209533,Clojure: A practical introduction to functional programming
+303,"[u'Node.js', u'Express', u'AngularJS', u'Angular', u'MEAN Stack', u'MongoDB', u'JavaScript']",meanangular2,207913,Angular 2: Building Web Apps using the MEAN stack
+304,[],ClientM,203805,Client management
+305,[u'Test Automation'],WinRunner,209389,WinRunner
+306,"[u'Programming', u'XML']",pcxmlsoap,98997,"Programming Concepts, XML and SOAP"
+307,"[u'Distributed Applications', u'Docker', u'Software Architecture']",dcos,201877,DC/OS: Turn 1000 machines into a single logical computer
+308,"[u'Corporate Governance', u'Soft Skills', u'Management']",intrcgov,99481,Integrated Risk & Corporate Governance
+309,"[u'AngularJS', u'Angular', u'Angular2', u'Software Testing']",angulartesting,209033,Angular: Testing your Angular applications
+310,"[u'TCP/IP Networking', u'IP Security', u'Real Time Services over IP']",ipintro,141113,Wprowadzenie do IP
+311,"[u'Data Mining', u'Pentaho', u'Business Intelligence']",pdi2,207021,Pentaho Data Integration (PDI) - moduł do przetwarzania danych ETL (poziom średniozaawansowany)
+312,"[u'KanBan', u'Agile']",agilekanbanlean,114715,Managing Agile Projects with Lean and Kanban
+313,"[u'Android', u'Cross Platform Development']",androidct,400,Cross Train to Android
+314,"[u'Distributed Applications', u'Cloud Computing', u'Virtualization']",coreos,202200,Container Linux: Deploy and monitor containerized applications at scale
+315,"[u'JavaScript', u'Microsoft Authorised']",ms-20480,68879,MS-20480 Programming in HTML5 with JavaScript and CSS3 MTA Exam 70-480
+316,[u'TCP/IP Networking'],tcpipprac,3698,Practical TCP/IP
+317,"[u'BPM', u'BPMN', u'Business Analysis']",bpmn2ba,383,BPMN 2.0 for Business Analysts
+318,[],2756,2756,Architektura Korporacyjna - przygotowanie organizacji do wdrożenia SOA
+319,"[u'Java EE', u'Web Services', u'Java', u'Programming']",pawjavaee,68799,Programowanie Aplikacji Webowych z Java EE 6 / 7
+320,"[u'Scrum', u'KanBan', u'Agile', u'Project Management', u'Technologies Overview']",safeSA02,117034,Leading the Lean-Agile Software Enterprise with the Scaled Agile Framework® - Scaled Agilist Certification (SA)
+321,[u'Elasticsearch'],eswp,94325,Elasticsearch - serwer wyszukiwania pełnotekstowego
+322,[u'Enterprise Architecture'],eaintro,2393,Introduction to Enterprise Architect
+323,[u'Ember'],emberjs,113919,Developing Web Applications with Ember.js
+324,[u'Configuration Management'],provterpac,146709,Automating Infrastructure Provisioning with Terraform and Packer
+325,[u'R'],advr,191981,Advanced R
+326,[u'Secure Code'],cl-jwa,154757,Java and Web Application Security
+327,[],as400CL,207141,AS400: CL Programming
+328,"[u'Apache', u'Web Server']",apacheadmin,283,Apache Web Server Administration
+329,"[u'Soft Skills', u'Human Resources', u'Assertiveness']",3632,3632,Organisational Behaviour
+330,"[u'Software Engineering', u'C++', u'Design Patterns', u'Software Design', u'C Language']",ecadpap,100329,Embedded C Application Design Principles for Automotive Professionals 
+331,"[u'Distributed Applications', u'Linux', u'Cloud Computing', u'Docker']",rancheros,202256,RancherOS: Just enough OS to run Docker
+332,"[u'SOA ESB Integration', u'Java']",jcapsdaadv,413,OpenESB-Java CAPS for developers and architects advanced level
+333,"[u'JavaScript', u'Quality Engineering', u'Performance Testing', u'Software Testing']",jsqaci,1212,JavaScript - Quality Assurance oraz Continuous Integration
+334,"[u'Lua', u'Programming']",luaadv,69063,Advanced Lua
+335,"[u'Computer', u'Professional Development', u'Technologies Overview']",pipro,67934,Pi-Projects
+336,[u'Management'],813,813,First time manager from supervisor to Manager 
+337,[],TeamM,203837,Team management
+338,"[u'Statistics', u'Wolfram', u'Machine Learning', u'Mathematica']",wolfdata,199765,Data Science: Analysis and Presentation
+339,[u'Internet Security'],cyberwarfare,199585,Fundamentals of corporate cyberwarfare
+340,"[u'Systems Modeling', u'SysML']",SysMLExa,146629,SysML by example
+341,[u'Statistics'],pgmt,384,The Practitioner’s Guide to Multivariate Techniques
+342,[],siebelforbusautomation,207113,Siebel for Developers: Business Automation
+343,"[u'VBA', u'Excel VBA', u'Excel']",vbaexceladv,3037,Visual Basic for Applications (VBA) in Excel - Advanced
+344,[u'BPM'],signavio,209413,Signavio Process Manager
+345,[u'Requirements Engineering'],irebcpre,8843,Exam preparation: IREB CPRE foundation
+346,"[u'Project Management', u'Management', u'Change Management', u'Configuration Management']",reqman,706,Zarządzanie wymaganiami
+347,"[u'Game Development', u'Mobile Programming', u'Cross Platform Development', u'JavaScript', u'Web Development', u'React']",reactvr,205525,React VR: Creating Virtual Reality apps with Javascript
+348,[u'Soft Skills'],effmads,191121,Effective Management 
+349,[u'Statistics'],datascib,68397,Data Science w biznesie 
+350,"[u'Automation Testing', u'Selenium', u'Test Automation', u'Selenium Webdriver', u'Jenkins', u'Web Application Testing']",SeleniumJenkins,199408,Test Automation with Selenium and Jenkins
+351,"[u'MBSE', u'Technical Architecture', u'Design Patterns', u'Software Design', u'Software Architecture']",technicalarc,191764,Technical Architecture and Patterns
+352,[],bsprhive,199341,R and Hive
+353,"[u'Statistics', u'Data Visualization', u'Big Data', u'Data Analysis', u'Hadoop', u'Data Mining']",druid,201192,"Druid: Build a fast, real-time data analysis system"
+354,"[u'TCP/IP Networking', u'Programming']",plcladder,69298,PLC Ladder Programming
+355,[u'OMG'],brsbvr,1128,Business Rule Approach with SBVR
+356,"[u'Scrum', u'Test Automation', u'Agile']",scrumtestspe,864,The Scrum Test Specialist
+357,[],k8s,207361,Kubernetes
+358,"[u'WOFE', u'China Business']",wofe2,97455,Managing Accountancy in WOFE (Whole Own Foreign Enterprise) in China
+359,[],insurtechrobots,207165,Insurtech: Insurance Robotics and Intelligent Automation
+360,"[u'CSS', u'AngularJS', u'HTML5', u'Angular', u'Angular2', u'Web application framework', u'JavaScript', u'Web Development']",angular4,201928,"Angular 4: Create single-page applications using HTML, CSS, and JavaScript"
+361,"[u'Scrum', u'Agile', u'Project Management', u'Management']",tcpsm,2728,Techniki coachingowe w pracy Scrum Mastera - warsztat praktyczny
+362,[],siebelintegration,207117,Siebel for Developers: Integration
+363,[u'Embedded Systems'],pi,197789,Raspberry Pi
+364,[],peoplesoftcrmfundamentals,207369,PeopleSoft CRM Fundamentals
+365,"[u'Game Development', u'C++']",unreal,201721,Unreal Engine 4: Developing 3D games with C++
+366,[],AM554,191909,ISTQB CTAL - TM
+367,[u'SharePoint'],spebu,98989,SharePoint 2013 Essentials for Business Users
+368,[u'Statistics'],statsqa,94402,Statistical Quality Analysis
+369,[u'BPMN'],bpmnbu,3137,BPMN for Business Users
+370,[],UNIX1001,208605,Shell Scripting basic and advance
+371,"[u'Python', u'Machine Learning']",mlfunpython,74892,Machine Learning Fundamentals with Python
+372,"[u'Strategic Management', u'Advertising', u'Brand Management', u'Marketing']",netmrk,382,Using The Internet As A Marketing Channel For Businesses
+373,[u'Java'],javafun,240,Java Fundamentals
+374,[u'Soft Skills'],candex,99903,Candidato Exitoso
+375,[u'Cassandra'],cassdbfun,68489,Fundamentals of Cassandra DB
+376,"[u'Project', u'Project Management']",projsev2,197841,MS Project i MS Project Server - zarządzanie wieloma projektami.
+377,"[u'Piwik', u'Predictive Analytics', u'Web analytics', u'Quantitative Analytics']",Piwik,199500,Getting started with Piwik
+378,"[u'Systems Modeling', u'SysML']",EASysML,146633,SysML par l'exemple avec Enterprise Architect
+379,[u'Quantitative Analytics'],ModelFore4Gov,95348,Modelling and Forecasting for Government 
+380,"[u'Database', u'Oracle', u'SQL']",3308,3308,Oracle 11g - SQL language for administrators - workshops
+381,"[u'R', u'Programming']",rprogadv,67780,Advanced R Programming
+382,"[u'Enterprise Architecture', u'MODAF', u'SysML', u'Systems Modeling', u'Nato Architecture Framework (NAF)', u'SOA Governance', u'MagicDraw', u'UPDM']",anafmd,97144,Applying NAF with MAGICDRAW
+383,"[u'JavaScript', u'Node.js']",nodejsdev,69114,Node.js for JavaScript Developers
+384,"[u'PredictionIO', u'Machine Learning']",predio,134684,Machine Learning with PredictionIO
+385,"[u'BPM', u'BPMS', u'Technologies Overview']",bpmana,264,BPM for Managers and Analysts Overview
+386,[],elinuxns,113898,19.- SERVICIOS EN RED DE LINUX EMPRESARIALES
+387,"[u'Scrum', u'Agile', u'Project Management']",agilers,95351,Agile Retrospective
+388,[],aemwebandcomponents,207469,Develop Websites and Components in Adobe Experience Manager v6.x
+389,"[u'China Business', u'Risk Management', u'Finance']",complcn1,99004,Management of Compliance Risk in China
+390,[u'Cloud Computing'],cloudcomp,401,Cloud Computing Overview
+391,"[u'Deep Learning', u'Neural Networks']",deeplrn,198372,深度学习基础与实战
+392,"[u'BDD', u'Automation Testing', u'Software Testing', u'Test Automation', u'Web Application Testing', u'Web Development']",behave,203492,Behave: BDD with Python (Cucumber/Gherkin for Python)
+393,[u'Wireshark'],nettbsws,94280,Basic Network Troubleshooting Using Wireshark
+394,[u'Ansible'],ansiblecm,94411,Managing Configuration with Ansible
+395,[u'Nginx'],nginxsca,2885,"Nginx Setup, Configuration and Administration"
+396,[u'Google Cloud Platform'],cpb101,154353,CPB101: Serverless Data Analysis with BigQuery and Cloud Dataflow
+397,"[u'Scrum', u'Agile', u'Technologies Overview', u'Project Management']",agilescrum,278,Agile Project Management with Scrum
+398,"[u'Statistics', u'Quantitative Analytics']",spssanal,134693,Statistical Analysis using SPSS
+399,[u'Marketing'],BUSSCI01,155221,The 30 Most Important Research Studies in Business to Boost Your B2B Bottom Line
+400,"[u'DMN', u'OMG', u'Business Rules']",mdldromgdmn,82360,Modelling Decision and Rules with OMG DMN
+401,"[u'Photography', u'Computer Graphics']",3076,3076,Canon Digital Photo Professional
+402,"[u'Corporate Compliance', u'Internet Security']",cdp,94182,CDP - Certificate in Data Protection
+403,"[u'Mobile Programming', u'Android', u'Cross Platform Development', u'Web application framework', u'JavaScript', u'React', u'iOS']",reactnative,201604,React Native: Rapidly develop native iOS and Android apps with Javascript
+404,"[u'AngularJS', u'Angular']",ngandv,99839,AngularJS Advanced
+405,"[u'Hadoop', u'Big Data', u'Data Analysis']",storm,208253,Apache Storm
+406,[u'C++'],CCQUANT,198549,C++ for Modeling Quantitative Finance 
+407,[u'Bootstrap'],btstrp,135057,Bootstrap for Web Developers
+408,[],testingoutline,199324,Testing Outline
+409,"[u'Database', u'SQL', u'MariaDB', u'Performance', u'MySQL', u'NewSQL']",mariadbgc,68662,MariaDB Galera Cluster Administration
+410,"[u'Cloud Computing', u'Distributed Applications', u'Linux', u'Big Data']",glusterfs,208297,GlusterFS for System Administrators
+411,"[u'C-sharp', u'Microsoft .NET', u'Programming']",pwin8xamlc,2764,Programming in Windows 8 with XAML and C#
+412,"[u'Test Automation', u'Automation Testing', u'Software Testing', u'Java']",junit,726,Unit Testing with JUnit
+413,[],PRICES104,191181,B2C Power Pricing! 12 Principles of Pricing Strategy To Boost B2C Profits - 1 Day Course
+414,"[u'Internet Security', u'Security Management']",cybersecfun,94165,Cybersecurity Fundamentals
+415,"[u'TCP/IP Networking', u'Cisco Security']",sipvoip,113168,SIP protocol in VoIP
+416,[u'Oracle'],378,378,Oracle Service Bus 11g - Design and Integration
+417,[],ARM003,191933,Peripherals Interfacing for ARM Based SoCs
+418,[],siebeltechfoundations,207105, Siebel for Developers: Technical Foundations
+419,"[u'JavaScript', u'Web Development', u'Design Patterns', u'Programming']",jsadv,3630,JavaScript - Advanced Programming
+420,"[u'C-sharp', u'Microsoft Authorised']",ms-20484,68898,MS-20484 Essentials of Developing Windows Store Apps Using C# MTA Exam 70-484
+421,"[u'Soft Skills', u'Human Resources']",pemm,510,Personal Efficiency and Managing Meetings
+422,[u'Perl'],perltextman,8088,Text Manipulation using PERL
+423,"[u'Apache Spark', u'Mahout', u'Big Data', u'Predictive Analytics', u'Hadoop', u'Data Mining']",bdanash1,143893,Big Data Analytics
+424,"[u'Oracle', u'Data Analysis', u'SQL']",sqladvals,208197,SQL Advanced level for Analysts 
+425,"[u'Database', u'Oracle']",3457,3457,Oracle 11g - Application Tuning - Workshop
+426,"[u'Statistics', u'Neural Networks', u'Predictive Analytics', u'Machine Learning', u'Artificial Intelligence']",appliedml,67836,Applied Machine Learning
+427,[],vmwareicm,113902,"20.- VMWARE VIEW: INSTALAR, CONFIGURAR, MANEJAR"
+428,[u'Oracle'],452,452,R12.x Extend Oracle Applications: Building OA Framework Applications
+429,"[u'Apache', u'Apache Solr', u'Big Data']",SolrAdm,143385,Apache Solr Administration Essentials
+430,"[u'Mobile Programming', u'Programming', u'JavaScript', u'Web Development', u'React', u'MVC']",react,199785,React: Build highly-interactive web applications
+431,"[u'JavaScript', u'Web Application Testing', u'AngularJS']",jsangpro,192961,"Javascript, AngularJS and Protractor"
+432,[u'Roundcube'],kolab,154845,Fundamentals of Kolab Administration - Basics to Advance
+433,"[u'Data Mining', u'Big Data', u'Quantitative Analytics']",datashrinkgov,95345,Data Shrinkage for Government
+434,[u'Linux'],INUNIX,130145,Intermediate Unix
+435,"[u'Linux', u'Programming']",lnxnetp,113146,Linux Network Programming
+436,[],3936,3936,Business Objects - Advanced
+437,[u'Collaboration'],zimbra,208249,Zimbra for system administrators
+438,[],Outsystemsmobile,207377,Outsystems: Developing Business Mobile Apps
+439,"[u'PowerPoint', u'Presentation Skills', u'Microsoft Office']",advmspp,97969,Advanced MS PowerPoint
+440,[u'Jboss Rules'],jboss,206757,JBoss
+441,[u'Information System Security'],cissprev,457,Certified Information System Security Professional (CISSP) CBK Review
+442,"[u'Scrum', u'Requirements Engineering', u'Software Engineering', u'Agile', u'Business Analysis', u'UML']",eraamauml,96721,Efficient Requirement Management using Agile Methods and Agile UML Modeling
+443,"[u'Scrum', u'Automation Testing', u'Software Testing', u'Test Automation', u'Agile', u'JMeter']",agilesofttest,389,Agile Software Testing
+444,"[u'Data Mining', u'Big Data', u'Data Analysis', u'Business Intelligence']",TalendDI,209045,Talend Open Studio for Data Integration 
+445,"[u'Python', u'Machine Learning', u'Programming']",mlfsas,113918,Machine Learning Fundamentals with Scala and Apache Spark
+446,[u'Elasticsearch'],elkforsysadmins,204641,"ELK: ElasticSearch, Logstash and Kibana for administrators"
+447,"[u'Statistics', u'Six Sigma']",sixsigmabb,409,Six Sigma Black Belt
+448,"[u'Apache Spark', u'Business Intelligence', u'Apache', u'Big Data', u'Hadoop', u'Data Mining']",68780,68780,Apache Spark
+449,"[u'Fixed Income', u'Financial Markets']",fixincom,132188,Introduction to Fixed Income
+450,"[u'PHP', u'Web Design', u'Yii Framework 2.0']",yii2,146581,Develop Web Applications with PHP and Yii 2
+451,[],AS400,207133,AS400: Application Development Essentials
+452,"[u'Statistics', u'R', u'Data Mining', u'Big Data']",rintrob,99946,Introductory R for Biologists
+453,[],HealthSaf,203817,Health and safety - OHSAS 18001
+454,[u'BPM'],pegaforssa,207097,Pega for Senior System Architects
+455,"[u'Advantage Digital', u'SQL']",advsql,199481,Advantage Digital – Getting Started with SQL
+456,[u'Android'],3245,3245,Android - The Basics
+457,[u'TCP/IP Networking'],pradtacacs,3710,Practical RADIUS and TACACS+
+458,[],couchad,142317,Apache CouchDB for Administrators
+459,[u'Programming'],68762,68762,C++ Anfängerkurs
+460,[u'Soft Skills'],3107,3107,Self Time Management
+461,"[u'Corporate Governance', u'Finance']",corpgov,494,Corporate Governance
+462,"[u'Web Development', u'Drupal']",drupal7adm1,339,Administering a Drupal 7 Website
+463,[],agfndpra,192869,Agile Project Management Foundation and Practitioner
+464,[],bspmongo,199133,Bespoke MongoDB Two Day Course
+465,"[u'Scrum', u'Agile', u'Project Management']",scrumintro,95256,Introduction to Scrum 
+466,"[u'Design Patterns', u'PHP']",phppatref,3577,PHP Patterns and Refactoring
+467,"[u'Statistics', u'Management']",xcelsius,854,Xcelsius
+468,"[u'MediaWiki', u'Wiki', u'Wikipedia']",mwadm,349,Administering MediaWiki
+469,"[u'MATLAB', u'Data Mining', u'Data Visualization', u'Excel VBA', u'Data Analysis']",surveyp,143901,Research Survey Processing
+470,[u'Risk Management'],crmcl,539,Credit Risk Management for Consumer Lending
+471,"[u'Adobe', u'DTP Techniques', u'Computer Graphics', u'InDesign', u'Computer graphics DTP']",aiadvip,3243,Adobe InDesign Advanced With Interactive Publications
+472,[u'CSS'],ccsint,251,Introduction to CSS
+473,"[u'Neural Networks', u'Machine Learning', u'Artificial Intelligence']",annmldt,90039,"Artificial Neural Networks, Machine Learning, Deep Thinking"
+474,"[u'Kubernetes', u'Linux', u'Docker']",dockeradm1,69310,Docker for Developers and System Administrators
+475,[u'OpenStack'],opnstbin,155101,OpenStack Basic + Intermediate (expanded syllabus)
+476,[u'JavaScript'],extjsfun,67974,Ext JS Fundamentals
+477,[u'Management'],2942,2942,Customer Relationship Management (CRM)
+478,[u'Soft Skills'],3251,3251,Effective recruitment and selection of employees
+479,"[u'TCP/IP Networking', u'Cisco Security']",casapixo,3713,Cisco ASA/Pix Operation
+480,"[u'GIT', u'Mercurial']",rmddvcs,361,Release Management and Deployment with Distributed Version Control System
+481,"[u'Business Rules', u'Neural Networks', u'Artificial Intelligence', u'Machine Learning']",aiintrozero,142000,From Zero to AI
+482,"[u'OWASP', u'Software Testing', u'Selenium', u'Software Engineering', u'Requirements Engineering', u'Selenium Webdriver', u'Performance Testing', u'JMeter', u'TestNG', u'Web Application Testing']",ISAM1,191625,ISTQB CTFL
+483,"[u'Apache', u'Apache ActiveMQ']",apacmq,200997,Apache ActiveMQ
+484,"[u'Database', u'SQL', u'MySQL']",sqlmysql,3042,SQL in MySQL
+485,[u'Web Development'],psum,23228,Projektowanie stron na urządzenia mobilne
+486,[u'XML'],xmlfund,3087,XML Fundamentals
+487,"[u'Project Management', u'Management']",PMGPMP1,202209,Effective Project Management
+488,"[u'Linux', u'Virtualization', u'Docker', u'LXC']",undocker,200145,Linux containers: not only Docker
+489,[u'AWS'],awsdevas,201045,AWS Developer Associate
+490,[u'OpenStack'],opstadminexp,97458,OpenStack Administration - Expert
+491,"[u'Ruby', u'PHP', u'Programming', u'JavaScript', u'Java', u'Information System Security']",bappint,67552,Bezpieczeństwo aplikacji internetowych
+492,"[u'Corporate Compliance', u'Data Mining', u'Computer']",datapro,99496,Data Protection
+493,"[u'Oracle', u'Programming']",odiad,97131,Oracle Data Integrator Administration and Development
+494,"[u'BPMN', u'OCEB']",oceb2t300,342,OCEB Certified Expert in BPM - Technical Advanced Exam Preparation
+495,[u'Drupal'],ecomdrupal,289,Building E-commerce Applications with Ubercart in Drupal
+496,[u'SharePoint'],3646,3646,SharePoint Introduction 2013
+497,"[u'MBSE', u'UML']",3166,3166,Practical aspects of UML
+498,"[u'Soft Skills', u'Project Management', u'Professional Development']",advyldshp,114690,Advisory & Leadership Skills
+499,"[u'Database', u'MySQL']",mysqlsql,193033,MySql for SQL - Database Administration
+500,"[u'SaltStack', u'Configuration Management']",itasaltstack,69349,IT Automation with Saltstack
+501,"[u'BPM', u'BPMN', u'BPMS']",bpm,2667,Business Process Management
+502,"[u'Database', u'Oracle', u'MySQL']",OSQLAPT,153841,Oracle SQL Advanced Performance Tuning
+503,[u'Enterprise Architecture'],eaint,428,Enterprise Architecture Overview
+504,"[u'Machine Learning', u'Neural Networks', u'Artificial Intelligence', u'Deep Learning']",mldt,192069,Machine Learning and Deep Learning
+505,"[u'LPI', u'Linux']",lpic2-201,312,Linux LPI LPIC-2 Exam 201 Preparation
+506,[u'Elasticsearch'],elastic1,99000,Implementation and Administration of Elasticsearch
+507,"[u'JavaScript', u'Web Development']",webpack,206277,Webpack: A modular approach to web application development
+508,[u'LMS'],lms,331,LMS (Learning Management System) Overview
+509,"[u'Oracle', u'SQL']",osqladv,3080,Oracle SQL Advanced
+510,"[u'Statistics', u'Data Mining', u'Business Analysis']",datamabespoke,207965,Statistical and Machine Learning Concepts for Data Analytics - Bespoke
+511,[u'MariaDB'],mariaoracle,206557,MariaDB - Bespoke
+512,"[u'Web Development', u'Java', u'Programming']",jwebappjsp,606,Java Web Developement - JSP
+513,[],csharpbespoke,197869,C#.NET - bespoke 
+514,[],dlv-c,203425,Deep Learning for Vision - customised
+515,"[u'Automation Testing', u'Software Testing', u'Test Automation', u'Performance Testing', u'TestNG', u'Web Application Testing', u'Web Services']",restassured,204521,Rest Assured: Introduction to API testing for REST services
+516,"[u'GCP - Your Gateway to GCP', u'GCP - Data and Machine Learning', u'Big Data', u'Machine Learning', u'Google Cloud Platform']",cpb100,120994,Google Cloud Platform Fundamentals: Big Data & Machine Learning
+517,[],phpmysql,192597,PHP Programming and MySQL for Web Development
+518,"[u'Web Development', u'Drupal']",drupal7sitebld,74838,Site Building in Drupal 7
+519,"[u'Design Patterns', u'Software Design', u'C Language', u'Software Engineering', u'C++', u'Embedded Systems']",ecadpapgeneral,200945,Embedded C Application Design Principles
+520,[u'Programming'],CUDAProg,199217,NVIDIA GPU Programming
+521,"[u'Information Security Risk', u'Internet Security', u'Hands on Security', u'Security Management']",ethhack,201517,Ethical Hacker
+522,[u'Augmented Reality'],wzrrar,97763,Wprowadzenie do zagadnień rzeczywistości rozszerzonej (Augmented Reality)
+523,[u'Elasticsearch'],elastic2,132144,"Elasticsearch Advanced Administration, Monitoring and Maintenance"
+524,"[u'DevOps', u'Java EE']",DEVOPSJEE,202216,Fundamentals of  Devops for Java Enterprise Edition Projects
+525,[u'Cassandra'],acas1,146417,Apache Cassandra 2.x Core Internals
+526,[u'PHP'],hhvmadm,69256,Administering and Optimizing HipHop Virtual Machine (HHVM)
+527,[u'Agile'],agileess,2948,Agile Essentials
+528,[u'Rust'],rust,134801,Programming with Rust 
+529,"[u'Internet Security', u'Hands on Security']",eccsecana,94167,EC-Council Security Analyst
+530,"[u'Hive', u'Hadoop', u'SQL']",hivehiveql,114743,Data Analysis with Hive/HiveQL
+531,"[u'R', u'Big Data', u'Neural Networks']",rneuralnet,23510,Neural Network in R
+532,"[u'Database', u'PostgreSQL']",postgresadmin,132153,PostgreSQL for Administrators
+533,[u'IP Security'],411,411,Information Safety and Network Security
+534,"[u'Lean', u'Change Management', u'Management']",leanS5,208913,Lean S5
+535,"[u'Statistics', u'Tableau']",tbladv,142505,Tableau Advanced
+536,[],spdevtensor,143377,Spark for Developers and TensorFlow
+537,"[u'Drools', u'Java EE', u'jBPM', u'Jboss Rules', u'JBoss', u'Java']",wfsadm,2886,WildFly Server Administration
+538,[u'Statistics'],stats2,310,Statistics Level 2
+539,"[u'Node.js', u'Express']",nodejswebstorm,142613,"Node.js & Express.js Basics, working with PM2 & WebStorm"
+540,[u'Management'],808,808,Introduction to Lean Six Sigma Training
+541,[u'Database'],repsvc,99775,Reporting Services
+542,"[u'Strategic Management', u'Soft Skills', u'Strategic Planning', u'Professional Development', u'Management']",sdtpml,99482,"Strategic Development: Thinking, Planning, Management and Leadership"
+543,"[u'Apache', u'Apache Quarks']",quarks,134752,Apache Quarks
+544,"[u'Finance', u'Big Data', u'Microsoft .NET', u'Programming']",pjfs,66537,Programowanie w języku F#
+545,[u'Real Time Services over IP'],vvoip,3700,Practical Voice and Video over IP
+546,"[u'Robotics', u'Deep Learning', u'Machine Learning']",dladv,100129,Advanced Deep Learning
+547,"[u'BPMN', u'OMG', u'CMMN']",cmmnint,192601,Introduction to OMG Case Management Model And Notation (CMMN)
+548,[u'Quality Engineering'],zrpdpit,8976,Zarządzanie ryzykiem i podejmowanie decyzji w projektach IT
+549,"[u'Linux', u'Docker', u'Virtualization']",dockcm,113804,Container management with Docker
+550,"[u'Internet Security', u'Security Management']",cism,94163,CISM - Certified Information Security Manager
+551,[u'JMeter'],jmeteradv,257,JMeter Advanced
+552,[u'Statistics'],mathematica1,206837,"Mathematica - elementary programming, visualizations and data presentation"
+553,[u'Secure Code'],cl-jpw,154917,"Combined JAVA, PHP and Web Application Security"
+554,"[u'Internet Security', u'IP Security', u'Information Security Risk']",Secawarn,202701,Security Awarness
+555,"[u'Enterprise Architecture', u'MBSE', u'UML']",umlea,3136,UML in Enterprise Architect (workshops)
+556,[u'Soft Skills'],3111,3111,Stress management
+557,"[u'Human Resources', u'Soft Skills', u'Professional Development']",coach,497,Coaching Skills
+558,[],Auditint,203833,Internal audit process
+559,[],HadoopDevAd,154305,Hadoop for Developers and Administrators
+560,[u'Software Testing'],ptloadrunner,547,Performance Testing with LoadRunner
+561,"[u'VB.NET', u'C-sharp', u'Visual Studio', u'Microsoft .NET']",vsvb,504,Visual Studio with VB.Net
+562,"[u'RDF', u'Semantic Web']",smtwebint,431,Semantic Web Overview
+563,[],bespnn,200669,Bespoke Neural Networking (Ecotricity)
+564,[u'Human Resources'],448,448,Mentoring and Coaching
+565,"[u'Statistics', u'Data Visualization', u'NoSQL', u'ABPD', u'Python', u'Big Data', u'Machine Learning', u'Distributed Systems', u'Data Analysis', u'R', u'Hadoop', u'Data Mining']",BigData_,202056,A practical introduction to Data Analysis and Big Data
+566,[u'BPM'],pegaforsa,207093,Pega for System Architects
+567,"[u'Microservice Architecture', u'SOA', u'Microservices', u'Systems Architecture', u'Software Architecture']",sysserarch,193076,Systems and Service Architecture - Microservices Architecture
+568,"[u'FreeBSD', u'Computer']",freebsdic,3026,FreeBSD Installation and Configuration
+569,[],pmit,113894,9.- GESTIÓN DE PROYECTOS PARA LA TECNOLOGÍA DE LA INFORMACIÓN
+570,"[u'Web Development', u'Secure Code']",secsoftw,191525,Secure Software Development auf C#/.NET Application- / Web- / Service-Security
+571,"[u'Agile', u'Project Management']",agdev,146685,Agile Development Principles and Practices
+572,[],litesen,97454,Topics in Comparative Literature Spanish - English 
+573,[],nessusadmin,207053,Nessus Manager
+574,[u'Autosar'],rteasp,100112,Introduction to AUTOSAR RTE for Automotive Software Professionals
+575,"[u'Information Security Risk', u'Internet Security']",pcirm,94176,PCIRM - Practitioner Certificate in Information Risk Management
+576,"[u'JavaScript', u'AngularJS', u'Angular']",angjs,68440,Angular JavaScript
+577,[],tpobase,209645,"Overview - Telecommunications, Programming, Operating System"
+578,"[u'Requirements Engineering', u'Software Design', u'Embedded Systems']",mbd,208545,Model Based Development for Embedded Systems
+579,[],drupalbspk,97960,Drupal
+580,[u'Programming'],cprog,3039,Programming in C
+581,"[u'Android', u'Java']",javafunandroid,371,Java Fundamentals for Android
+582,[u'Microsoft .NET'],posh,328,PowerShell Master Class
+583,[u'Systems Modeling'],CapellaEn,146621,Capella in action
+584,[u'Secure Code'],cl-ios,155001,IOS Security
+585,"[u'Data Mining', u'Big Data']",psr,2731,Introduction to Recommendation Systems
+586,[u'Bootstrap'],bootstp,143473,Bootstrap - zagadnienienia zaawansowane
+587,[u'Mercurial'],mercfun,98086,Mercurial Fundamentals
+588,"[u'DevOps', u'Hands on Security', u'Secure Code', u'Security Management']",devopssecurity,206145,DevOps Security: Creating a DevOps security strategy
+589,[u'Secure Code'],cl-psc,154901,Secure coding in PHP
+590,"[u'Hadoop', u'Big Data']",hadoopforprojectmgrs,207229,Hadoop for Project Managers
+591,"[u'Test Automation', u'Agile', u'Automation Testing', u'Software Testing']",agilesofttesto,113085,Agile Software Testing Overview
+592,[u'SOA'],teeacmw,3073,"Integrating the Extended Enterprise – On-Premise Applications, Cloud, Mobile and Web APIs"
+593,"[u'Test Automation', u'Web Application Testing', u'Ruby', u'Automation Testing']",Watir,204421,Watir: Web test automation with Ruby
+594,[u'Agile'],agilesofttest1,115011,敏捷软件测试理论基础与实践
+595,"[u'Internet Security', u'Cloud Computing', u'IoT', u'Big Data', u'Artificial Intelligence']",iottech,98000,IoT (Internet of Things) - Technology Overview
+596,"[u'Symfony', u'Web Development', u'PHP', u'Microsoft .NET']",symfony3webdev,152825,Web Development with Symfony3
+597,"[u'JBoss', u'Jboss Rules', u'jBPM', u'Drools']",droolsjbpm,199761,jBPM for Process Designers and Drools Rules Administration
+598,"[u'AngularJS', u'Angular']",angjsbas,68438,AngularJS Basics
+599,"[u'Agile', u'Software Testing']",istqbate,113104,ISTQB - Agile Tester Extension - Exam Preparation
+600,[u'Hadoop'],ambari,208441,Apache Ambari: Efficiently manage Hadoop clusters
+601,"[u'Teradata', u'Database', u'Big Data', u'SQL']",teraintro,204905,Teradata Fundamentals
+602,"[u'Android', u'iOS', u'Mobile Development']",451,451,Cross-platform mobile development with PhoneGap/Apache Cordova
+603,"[u'JavaScript', u'AngularJS', u'HTML', u'Angular2', u'Angular']",Ang4gp,205545,Angular 4 - dobre praktyki
+604,[u'TCP/IP Networking'],ipv6und,3699,Understanding IPv6
+605,[u'Performance'],perftune,551,Performance engineering/tuning
+606,[u'Elasticsearch'],elastaddev,200157,Administration and Development of Elasticsearch
+607,"[u'TensorFlow', u'R', u'Data Visualization', u'Machine Learning', u'Neural Networks']",deepmclrg,199461,Machine Learning & Deep Learning with Python and R
+608,"[u'Design Patterns', u'Java']",javawp,2732,Wzorce projektowe w Java
+609,[u'iOS'],iosappsii,95100,iOS Building Apps for iPhone and iPad
+610,"[u'Scrum', u'Software Design', u'Software Architecture', u'Test Automation', u'Agile', u'Software Testing', u'Java']",scrumsoftdev,201497,Scrum for software development
+611,[],wwmsftyisb,98870,"Jak wycisnąć więcej z mediów społecznościowych? Facebook, Twitter, YouTube, Instagram, Snapchat, blogi - bez tajemnic"
+612,"[u'Web Development', u'PHP']",webdevphp1,3070,Website Development in PHP
+613,[u'Roundcube'],roundcubemecc,95090,"Managing Emails, Calendars and Contacts with Roundcube Server"
+614,[u'Linux'],compforelinx,95081,Computer forensics with Linux
+615,"[u'Computer Vision', u'Video Streaming', u'Machine Vision', u'Artificial Intelligence', u'Image Analysis', u'Data science']",marvin,201025,Marvin Image Processing Framework - creating image and video processing applications with Marvin
+616,[],zaiapml,201901,From Zero to AI with Applied Machine Learning
+617,"[u'Wolfram', u'Mathematica', u'Programming']",wolfmath,154361,Mathematica: An Introduction
+618,"[u'Wiki', u'MediaWiki', u'Semantic Wiki', u'Wikipedia']",mwsemintro,1129,Introduction to Semantic MediaWiki
+619,[u'Business'],h2020,208909,Applying for Horizon 2020 Funding
+620,"[u'Dashboard', u'Web Development']",dashbuilderforengineers,209433,Dashbuilder for engineers
+621,[u'Linux'],linuxsysadmin1,404,Linux System Administration
+622,[u'Android'],androidprog,372,Android Effective Programming
+623,"[u'Ruby', u'Programming']",rubyrpz,23418,Ruby on Rails - praktyczne zastosowanie
+624,[u'SOA ESB Integration'],jcapsdae,412,OpenESB-Java CAPS for developers and architects entry level
+625,"[u'Mobile Programming', u'Cross Platform Development', u'Mobile Development', u'Angular2', u'Ionic2', u'JavaScript', u'iOS']",Ionic2Angular2,208709,"Ionic2: Building native-like, cross-platform mobile apps with Ionic2 and Angular2"
+626,[u'Secure Code'],cl-sdl,154737,Microsoft SDL Core
+627,[u'Ansible'],ansiblebe,201341,Using Ansible for Configuration Management
+628,"[u'Adobe', u'Computer Graphics']",3507,3507,Adobe LiveCycle Designer
+629,[u'Soft Skills'],motro,143045,Motywująca rozmowa oceniająca
+630,[u'Enterprise Architecture'],archframebspk,96686,Bespoke Architecture Framework
+631,"[u'Facebook', u'Social Media']",3247,3247,Facebook in advertising and marketing
+632,"[u'Android', u'Python', u'Mobile Development']",kivy,208721,Kivy: Building Android Apps with Python
+633,"[u'Mentoring', u'Coaching']",solvpro,199153,Kreatywne rozwiązywanie problemów w zespole
+634,[u'Microsoft Authorised'],ms-20487,68969,MS-20487 Developing Windows Azure and Web Services MTA Exam 70-487
+635,"[u'BPM', u'Business Analysis']",bprca,529,Business Process Re-engineering for Competitive Advantage
+636,"[u'Strategic Management', u'Risk Management', u'Strategic Planning', u'Management']",strageticthinking,200716,Strategic Thinking
+637,"[u'Enterprise Architecture', u'OpenStack', u'Cloud Computing']",opstcloud,3631,Create OpenStack cloud infrastructure
+638,[u'Secure Code'],cl-anw,155017,Network Security and Secure Communication
+639,[u'Human Resources'],449,449,Equality and Diversity Masterclass
+640,"[u'BPM', u'BPMN', u'BPMS']",bonitabpm,202628,Bonita BPM for designers
+641,"[u'XQuery', u'XML']",xquery,407,XQuery
+642,"[u'use case', u'UML']",usecase,205533,Use Case Modeling
+643,[],mongodevadmbespoke,142973,MongoDB for Developers and Administrators
+644,[u'Redis'],redisadev,153285,Redis for Developers and System Administrators
+645,"[u'Mobile Programming', u'Android', u'Cross Platform Development', u'JavaScript', u'React', u'iOS']",createreactnativeapp,205521,Create React Native App: simplifying the creation and deployment of your React Native application
+646,[u'Secure Code'],cl-wdt,154897,Secure Web Application Development and Testing
+647,"[u'Image Analysis', u'MATLAB', u'Programming']",matimpro,201141,Matlab for Image Processing
+648,[u'Artificial Intelligence'],swp,97996,Systemy wieloagentowe w praktyce
+649,[u'Secure Code'],cl-cjw,154909,"Combined C/C++, JAVA and Web Application Security"
+650,[],Exceleulisa,153221,Excel Advanced Level + Excel Intermediate Level
+651,[u'IoT'],avrdevel,201789,Development for AVR microcontrollers
+652,[u'Soft Skills'],3100,3100,Team Building and Management
+653,[],msexch13,192581,MS Exchange Server 2013 – M20341
+654,[u'Ubuntu'],ubtsysadmadv,94204,Advanced Ubuntu System Administration
+655,[u'Soft Skills'],6hats,3622,Six thinking hats by Edward de Bono
+656,"[u'SQL', u'Oracle', u'MySQL']",sqlfun,243,SQL Fundamentals
+657,"[u'Performance', u'Computer', u'Strategic Planning']",3809,3809,Prototypowanie interaktywnych makiet - Axure
+658,[u'XML'],xmladv,3091,XML Advanced
+659,"[u'Android', u'Mobile Development']",121222,98003,Android Application Development
+660,[u'R'],webappsr,99833,Building Web Applications in R with Shiny
+661,"[u'Puppet', u'Linux', u'Configuration Management']",3843,3843,Puppet Advanced
+662,"[u'Haskell', u'Programming']",haskellfun,68882,Haskell Fundamentals
+663,[u'OpenStack'],opnstbesp,155097,OpenStack Administration - Basic (with expanded syllabus)
+664,"[u'Java', u'Programming']",javaappsh,3027,Spring and Hibernate in Java Applications
+665,"[u'Microservices', u'Micro Services']",microservices,146589,Building Microservice Architectures 
+666,[u'DevOps'],zabbix,191037,Zabbix 
+667,[u'SOA ESB Integration'],jcapsdaexp,414,OpenESB-Java CAPS for developers and architect expert level
+668,"[u'SOA', u'WCF', u'Microsoft .NET']",uwcf,426,Understanding Windows Communication Foundation (WCF)
+669,[],bspjasecu,205425,Selenium and Cucumber with Java
+670,[u'Artificial Intelligence'],dsmlwrk,146713,Data Science and Machine Learning Workshop
+671,"[u'Software Engineering', u'Agile', u'Software Design', u'Software Architecture', u'Programming']",ProgrammingExcellence,199424,Programming Excellence
+672,"[u'Selenium', u'Selenium Webdriver', u'Software Testing', u'Microsoft .NET', u'Programming']",Csharpfortesters,201392,C# for Automation Test Engineers
+673,[],bespystat,153573,Bespoke Python and Statistics
+674,"[u'Internet Security', u'Hands on Security', u'Secure Code']",cl-njs,200321,Node.JS and Web Application Security
+675,[u'PowerPoint'],bspbaspp,204573,Basic PowerPoint Training Course
+676,[],besr,143609,Bespoke R
+677,[],wfsadm2,199985,WildFly 10 Server Administration
+678,"[u'Data Visualization', u'MATLAB', u'Data Analysis', u'Predictive Analytics', u'Data science', u'Data Mining']",matlabdsandreporting,204105,"MATLAB Fundamentals, Data Science & Report Generation"
+679,"[u'Virtualization', u'Docker']",rkt,202264,rkt: Moving from Docker containers to rkt containers
+680,"[u'SOA', u'Enterprise Architecture', u'SoaML', u'Web Services', u'UML']",soamlad,353,Analysis and Design with SoaML
+681,[u'Speech Technology'],sphynx,201552,Sphinx: Developing speech-enabled applications
+682,[],selcjava,97113,Selenium and CoreJava
+683,"[u'Robotics', u'Machine Learning']",mlrobot1,97749,Machine Learning for Robotics
+684,"[u'Nato Architecture Framework (NAF)', u'MODAF']",modafnafint,68659,MoDAF/NAF Introduction
+685,"[u'Computer', u'Information System Security']",infosysa,99497,Information Systems Auditor
+686,[u'Microsoft Authorised'],ms-20485,68901,MS-20485 Advanced Windows Store App Development using C# MTA Exam 70-485
+687,[u'Human Resources'],handcc,506,Handling Conflict with Confidence
+688,[],Chefess,201273,Chef Essentials
+689,"[u'Predictive Analytics', u'Data Mining', u'Big Data', u'Neural Networks', u'Executive Overview']",d2dbdpa,67417,From Data to Decision with Big Data and Predictive Analytics
+690,[u'Adobe'],3030,3030,Adobe Dreamweaver
+691,[u'Ruby'],pjruby,18277,Ruby Programming
+692,[u'Java'],javafunmanven,3731,Java fundamentals with Maven
+693,"[u'SaltStack', u'Configuration Management']",itasaltstack1,206073,IT Automation with Saltstack - bespoke
+694,[u'Programming'],scalaprog,3628,Programming in Scala
+695,"[u'PowerPoint', u'Presentation Skills', u'Microsoft Office']",advprsnt,153149,Delivering Impressive Presentation Decks - Social Skills Workshop
+696,"[u'MATLAB', u'Data Visualization', u'Machine Learning']",octnp,202281,Octave not only for programmers
+697,"[u'Web Application Testing', u'Selenium Webdriver', u'Selenium']",selwebdrv,113787,Selenium WebDriver Overview
+698,"[u'Test Automation', u'Web Application Testing', u'Selenium Webdriver', u'Selenium']",wtesel,201276,Complete Web Testing Environment with Selenium WebDriver Training Course
+699,"[u'Strategic Management', u'Management']",stratman,536,Strategic Management
+700,[u'Google Cloud Platform'],cpb102,154357,CPB102: Machine Learning with CloudML
+701,[],evolvo,142433,Evolving Objects (EO) 
+702,"[u'Kubernetes', u'Docker']",dockkube,98996,Docker (introducing Kubernetes)
+703,"[u'Data Mining', u'Pentaho', u'Business Intelligence']",pbi4,207029,Pentaho Business Intelligence (PBI) - moduły raportowe
+704,"[u'Internet Security', u'Security Management']",cissp,94156,CISSP - Certified Information Systems Security Professional
+705,[u'Secure Code'],cl-aan,154997,Android Java and Native Code Security
+706,"[u'Project Management', u'Excel']",ExPrVisE,199205,Excel – Visualization of project progress
+707,"[u'Web Development', u'Web Design']",grav,202536,"Grav: Creating websites with a flat-file, no-database CMS"
+708,[u'Tableau'],tableau1,99433,Data analysis with Tableau
+709,"[u'R', u'Excel VBA', u'Data Analysis', u'Excel']",dataaup,202445,Data & Analytics - from ground up
+710,"[u'Apache Solr', u'Big Data']",solrdev,113240,Solr for Developers
+711,[],dl4j,141197,Mastering Deeplearning4j
+712,"[u'Strategic Management', u'Brand Management', u'Marketing', u'Management']",yourbb,537,Understanding Your Brand and Your Business
+713,[],aemarchitect,207461,Adobe Experience Manager v6.x - Architect Workshop
+714,[u'Agent Based Modeling'],repast1,114906,Repast - Agent Based Modeling and Simulation (ABMS)
+715,"[u'Test Automation', u'Web Application Testing', u'Software Testing', u'Selenium']",appium,116218,Mobile Automation with Appium Overview
+716,[],introphp,206933,Introduction to PHP and HTML
+717,"[u'OCSMP', u'SysML']",ocsmpprep,388,OCSMP Model User Exam Preparation
+718,[u'Finance'],structprods,142968,Overview of Structured Products
+719,"[u'Oracle', u'SQL']",osqlfun,364,ORACLE SQL Fundamentals
+720,[],sapcopa,155781,SAP Profitability Analysis (CO-PA) 
+721,"[u'Symfony', u'PHP']",symf3,199721,Symfony 3 
+722,"[u'Apache Camel', u'Apache', u'Java EE', u'Apache Quarks']",apakar,143841,Apache Karaf
+723,[],exclbudgt,207201,Excel Budget Tracker
+724,"[u'Linux', u'Systems Architecture', u'TCP/IP Networking', u'DevOps', u'Data Network', u'Network administration']",Munin,199676,Monitoring your resources with Munin
+725,"[u'Scrum', u'Agile', u'Project Management', u'Technologies Overview']",agilescrumcust,192800,Agile Project Management with Scrum - Customized
+726,[],bprempro,143453,Adobe Premiere Pro Basics
+727,[u'Web Services'],wssoapwsdl,262,WebServices with SOAP and WSDL Basics
+728,[u'Deeplearning4j'],dl4jir,142149,DeepLearning4J for Image Recognition
+729,[],datawm,113901,15.- DATA WAREHOUSE Y MINERIA DE DATOS
+730,"[u'Internet Security', u'Hands on Security', u'Secure Code']",iast,209397,Interactive Application Security Testing (IAST)
+731,"[u'Cloud Computing', u'Big Data', u'OpenStack']",osovv,98017,OpenStack Overview
+732,"[u'Embedded Linux', u'C++', u'Programming', u'Distributed Systems', u'Embedded Systems']",Embedd8526,209301,Using C++ in Embedded Systems - Applying C++11/C++14
+733,"[u'Statistics', u'Excel']",excelafd,268,Analysing Financial Data in Excel
+734,"[u'MSSQL', u'SQL']",67592,67592,SQL Server 2008 Administration
+735,[u'Cloud Computing'],awsarch1,98012,AWS Architect Certification
+736,"[u'Test Automation', u'Software Testing']",concordion,209257,Concordion
+737,"[u'Database', u'Oracle', u'SQL']",osqldevdm,98903,Oracle SQL for development and database management
+738,[],AM3698,191929,Porting uCOS-II to ARM Cortex M Architecture
+739,"[u'Scrum', u'KanBan', u'Agile', u'Project Management']",orangescrum,208449,Agile Project Management with OrangeScrum
+740,[u'Management'],projchar101,98943,Project Charter Clinic 
+741,"[u'CSS', u'Web Design']",css3adv,113911,CSS3 Advanced
+742,"[u'SQL', u'Oracle', u'PL/SQL']",SQL12cadv,155201,Oracle 12c – zaawansowany SQL
+743,[],siebelopenui,207125,Siebel for Developers: Open UI
+744,[u'Soft Skills'],3098,3098,Effective interpersonal communication with elements of assertiveness
+745,"[u'Oracle', u'Java']",564,564,Java SE 7 Programmer Certification Preparation
+746,[u'Julia'],juliaintro,94112,Introduction to Julia
+747,[u'Plone'],ploneint,554,Plone Overview
+748,"[u'Risk Management', u'Project Management']",pmrisk,116714,Project Risk Management 
+749,[u'Soft Skills'],brawa,208973,BRAND AWARENESS
+750,[u'Microsoft Authorised'],ms-40375,68878,MS-40375 HTML5 Application Development Fundamentals MTA Exam 98-375
+751,[],PRICES105,191185,B2C Power Pricing! 12 Principles of Pricing Strategy To Boost B2C Profits - 1.5 Day Course with Half Day Sales and Marketing Evaluation
+752,"[u'Microsoft Office', u'Word', u'Excel']",3090,3090,Word and Excel Basics
+753,"[u'Angular', u'Angular2']",AJS-GP,143444,AngularJS Good Practices
+754,"[u'Java', u'Programming']",javaeejboss,295,Enterprise Java Programming with Java EE and JBoss (EJB 3.0)
+755,[u'Linux'],kshprog,287,Korn Shell Programming
+756,"[u'Microsoft Office', u'Excel']",exceldataanal,3095,Excel Data Analysis
+757,"[u'Drupal Commerce', u'Drupal']",drupalcom,2882,Online Store with Drupal Commerce
+758,"[u'PowerPoint', u'Presentation Skills', u'Lasting Partnerships']",advppst,100065,Advanced PowerPoint for sales teams
+759,"[u'Performance Testing', u'Web Application Testing', u'Agile', u'Software Testing', u'Management']",orgmantes,8518,Organizacja i zarządzanie testowaniem
+760,[u'Marketing'],PRICES103,155185,B2B Power Pricing! 12 Principles of Pricing Strategy To Boost B2B Profits - 1.5 Day Course with 3.5 Day Sales and Marketing Evaluation
+761,[u'SequoiaDB'],seqdb,134636,SequoiaDB for Developers
+762,"[u'Enterprise Architecture', u'SysML', u'Software Architecture', u'Business Analysis', u'Systems Modeling', u'MagicDraw', u'UML']",sysmlmd,97145,Applying SysML with MAGICDRAW
+763,[u'Magento'],implmagforecom,206761,Implementacja Magento 2.X do rozwiązań eCommerce
+764,"[u'OCUP', u'Software Design', u'UML']",uml2advprep,267,UML 2.0 Certification - Advanced Exam Preparation
+765,[],bespokevbnet,208985,VB.Net 
+766,[u'SQL'],advsqlpt,340,"Advanced SQL, Stored Procedures and Triggers for Microsoft SQL Server"
+767,"[u'BPM', u'BPMN', u'BPMS', u'Business Analysis']",bpmn2,134657,Business Process Modelling in BPMN 2.0
+768,[u'Quality Engineering'],zjopm,8972,Zapewnienie jakości oprogramowania – przegląd metodyk
+769,[u'OpenStack'],osmsenv,98019,OpenStack in Multi-Site Environment
+770,[u'Business Analysis'],baess,142361,Business Analysis Essentials
+771,"[u'Web Development', u'Responsive Design', u'Web Design', u'Drupal']",DrupalRespDesign,96480,Drupal Responsive Design
+772,"[u'Investment', u'Forex']",forexcurmkt,314,Foreign Exchange and the Currency Markets for Business
+773,[u'Redis'],redisadm01,113233,Redis for Administrators
+774,"[u'Distributed Applications', u'Linux', u'Docker']",alpinelinux,202260,"Alpine Linux: Setting up a small, simple, and secure OS for your containers"
+775,"[u'MVC', u'Developer', u'PHP', u'Web application framework', u'Programming']",ThinkPHP,199617,Getting started with ThinkPHP
+776,[u'Samba'],sambaad,142897,Samba for Administrators
+777,"[u'Cassandra', u'Big Data']",cassdev,113238,Cassandra for Developers
+778,"[u'Statistics', u'Excel']",excelstatsda,269,Excel For Statistical Data Analysis
+779,[u'Activiti'],activitydesigners,67630,Activiti for Business Process Designers
+780,"[u'Web Development', u'PHP']",php7,209497,PHP 7: Building high-performance web applications
+781,"[u'Web Development', u'PHP']",webdevphp,3508,Web Application Development in PHP
+782,"[u'Forex', u'Financial Markets']",3028,3028,Foreign Exchange and the Currency Markets for Business - Basic and Intermediate Course
+783,[u'Roundcube'],roundc1,95312,Installation and Administration of Roundcube and Kolab server
+784,[],aiwzpugrep,95217,Adobe InDesign wyszukiwanie i zamienianie przy użyciu GREP
+785,"[u'Mobile Programming', u'Mobile Development', u'Software Architecture']",MA1,142985,Mobile Architectures & Solutions
+786,[u'Soft Skills'],communic,3093,Communication
+787,[u'Linux'],ulshscr,365,UNIX/Linux Shell Scripting
+788,"[u'MSSQL', u'SSIS', u'Business Intelligence', u'SQL', u'SQL Server BI', u'SSAS']",6550,6550,Business Intelligence w MS SQL Server 2012
+789,[],aemextendandcustomize,207465,Extend and Customize Adobe Experience Manager v6.x
+790,"[u'Soft Skills', u'Human Resources', u'Professional Development', u'Assertiveness']",commtm2,503,Communicating and Influencing - For Managers and Team Leaders
+791,[u'BPM'],bpelsvc,334,Orchestrating services with BPEL
+792,"[u'Database', u'Big Data', u'In-memory computing', u'Distributed Computing']",ApacheIgnite,209621,"Apache Ignite: Improve speed, scale and availability with in-memory computing"
+793,[u'BPM'],Monitprocess,203661,Monitorer des processus à travers les indicateurs pertinents
+794,"[u'BPM', u'Business Rules']",pegasaessentials,207077,Pega for System Architects -- DEPRECATED
+795,"[u'Database', u'NoSQL', u'Embedded Systems']",berkeleydb,201180,Berkeley DB for developers
+796,"[u'TestNG', u'Web Application Testing', u'Selenium Webdriver', u'Software Testing', u'Selenium']",galen,201388,Galen Framework: Layout and functional test automation for your responsive website
+797,"[u'C-sharp', u'Microsoft Authorised']",ms-20483,68897,MS-20483 Programming in C# MTA Exam 70-483
+798,"[u'Deep Learning', u'Neural Networks']",deeplearning1,97750,Introduction to Deep Learning
+799,[u'Adobe'],cpdff,3252,Create PDF Forms
+800,[u'Artificial Intelligence'],genealgo,143865,Genetic Algorithms
+801,"[u'Strategic Management', u'Strategic Planning']",strapra,244,Strategic Planning in Practice
+802,[u'MATLAB'],mtlbscr,205221,Introduction to MATLAB Scripting 
+803,"[u'R', u'Predictive Analytics', u'Big Data']",bigdatar,68924,Programming with Big Data in R
+804,"[u'Finance', u'Investment']",ibsp,23717,Investment Banking: Introduction to Structured Products
+805,[],Ankara,206345,Apache Karaf Customized
+806,[],96687,96687,Bespoke BPMN2 for Analysts
+807,"[u'Social Media', u'Marketing']",74888,74888,Social Media Marketing
+808,"[u'Neural Networks', u'Artificial Intelligence']",mtdintob,97992,Metody Inteligencji Obliczeniowej
+809,[],cl-sdl-bes,208849,Microsoft SDL Core (plus C# or C++)
+810,[u'Soft Skills'],3105,3105,Delegation of tasks and motivating employees
+811,"[u'Investment', u'Financial Markets']",stockexin,270,Stock Exchange and Investment
+812,[u'C-sharp'],cwpfbesp,153357,C# WPF
+813,[u'Cloud Computing'],cloudcpt,3071,"It is all about Cloud: Key Concepts, Players, and Technologies"
+814,[u'GIT'],gitcomp,1123,Comprehensive Git
+815,[u'Web Development'],68675,68675,Joomla Overview
+816,[u'Drupal'],drupal8admin,285,Administering a Drupal 8 Website
+817,[],itilsd,68485,ITIL®: Intermediate Lifecycle Stream: Service Design (SD)
+818,"[u'Software Engineering', u'Software Design', u'Software Architecture']",20150713,96677,软件架构概述
+819,[u'OpenStack'],opstadminadv,97457,OpenStack Administration - Advanced
+820,"[u'Business Motivation Model', u'Agile', u'Business Analysis']",bmam,96719,Business Modeling for an Agile Enterprise
+821,"[u'Linux', u'Ubuntu']",ubuntuad,154981,Ubuntu Administration - Basic to Advance
+822,[u'Management'],mantdev,508,Management and Team Development
+823,[u'Embedded Systems'],linuxrp2,197797,Embedded Linux on RP2
+824,"[u'Lua', u'C Language', u'C++', u'Deep Learning', u'Neural Networks', u'Machine Learning', u'Artificial Intelligence', u'Image Analysis', u'Data science']",Torch,201100,Torch: Getting started with Machine and Deep Learning
+825,[],iotsem,207489,"Internet of Things Seminar, Kuwait"
+826,"[u'BPMN', u'OCEB']",oceb2t200,341,OCEB Certified Expert in BPM - Technical Intermediate Exam Preparation
+827,[u'MySQL'],68962,68962,MySQL Administration 
+828,"[u'C-sharp', u'Design Patterns', u'Software Design', u'Microsoft .NET', u'Programming']",dpcs,359,Design Patterns in C#
+829,[u'Android'],3895,3895,Android App Delivery (bespoke)
+830,[u'Go'],golang1,98084,Go Programming Language for Programmers
+831,[],excelcusto3,199337,Excel training for Shire
+832,"[u'Image Analysis', u'Computer Vision', u'Pattern Recognition', u'Machine Vision', u'Artificial Intelligence']",patternmatching,200457,Pattern Matching
+833,"[u'Hadoop', u'Big Data']",hadoopadm1,113241,Hadoop For Administrators
+834,[u'Business Analysis'],babokiiba,315,"Business Analysis, BABOK V3.0 and IIBA Certification Preparation"
+835,"[u'Lua', u'Programming']",luafun,69062,Lua Fundamentals
+836,"[u'Test Automation', u'Functional programming', u'Automation Testing', u'Software Testing', u'Property-based testing']",propertybasedtesting,208257,Property Based Testing with F#
+837,[u'FreeBSD'],freebsdadmin,3031,Administering FreeBSD
+838,"[u'Advertising', u'Marketing']",adintro,306,Introduction to Advertising
+839,"[u'Adobe', u'Photoshop', u'Computer Graphics']",3025,3025,"Raster and Vector Graphics (Adobe Photoshop, Corel Draw)"
+840,"[u'Database', u'Database Migration']",dbalogicmigration,197824,Database Logic Migration
+841,[],gitadv,134689,Advanced Git and Consultancy
+842,"[u'BPMN', u'BPM', u'OMG', u'OCEB']",oceb2bizess,146549,OCEB - BPM Expert - Business Essentials 
+843,[],mltlb,200033,Matlab Image Processing Toolbox
+844,"[u'SVN', u'Subversion']",svnusr,252,Subversion for Users
+845,"[u'Web Development', u'Python']",flask,198833,Web application development with Flask
+846,[u'Marketing'],PRICES101,155057,B2B Power Pricing! 12 Principles of Pricing Strategy To Boost B2B Profits - 1 Day Course
+847,[],pptfinance,152849,Creating Slide Decks for the Financial World
+848,"[u'Design Patterns', u'Software Design', u'UML', u'Business Analysis']",designpat,261,Design Patterns
+849,[u'JavaScript'],66427,66427,Bespoke Javascript
+850,"[u'C-sharp', u'Microsoft .NET']",685,685,Basics of C # language based on object model
+851,"[u'Microsoft .NET', u'Programming']",2870,2870,Programming using ASP.NET MVC 4
+852,"[u'Game Development', u'C++', u'JavaScript']",unity,201733,Unity: Developing 3D games with C# and Javascript
+853,"[u'Scrum', u'Automation Testing', u'Software Testing', u'Test Automation', u'Agile', u'Project Management']",agilesofttestci,68640,Agile Software Testing with Continuous Integration
+854,[],bspkaml,97428,Machine Learning
+855,"[u'Android', u'Mobile Development']",androidhybapp,370,Android Hybrid Applications
+856,"[u'LPI', u'Linux']",lpic1-102,323,Linux LPI LPIC-1 Exam 102 Preparation
+857,[u'Microsoft Authorised'],winstore,154313, Essentials of Developing Windows® Store Apps Using C# 
+858,[u'Gimp'],gimpfun,293,Gimp Fundamentals
+859,"[u'MagicDraw', u'Systems Modeling', u'SysML']",CSMSysML,146637,SysML par l'exemple avec Cameo Systems Modeler
+860,[u'Business Analysis'],busiana,316,Business Analysis
+861,"[u'SVN', u'Subversion']",subvadv,410,Subversion for Advanced Users
+862,[u'OpenStack'],psab,97156,OpenStack Administration - Basic
+863,"[u'C++', u'Embedded Systems']",cplusplusforembedded,209548,C++ for Embedded Systems
+864,[],fuzzylgc,143837,Fuzzy Logic
+865,"[u'Hadoop', u'Big Data']",hadoopadm,28937,Hadoop Administration
+866,"[u'Neural Networks', u'CNTK']",cntk,134733,Using Computer Network ToolKit (CNTK)
+867,"[u'Blockchain', u'hyperledger']",hyperledger1,205965,Blockchain: Hyperledger Fabric
+868,[u'SQL'],sqlsqlsvr,350,SQL in SQL Server
+869,[u'Facebook'],354,354,Facebook Application Development
+870,"[u'Yocto Project', u'Embedded Linux', u'Embedded Systems']",embedlinuxcc,153373,Introduction to Embedded GNU/Linux - Short Crash Course
+871,"[u'Data Visualization', u'Python', u'Big Data', u'Data Analysis', u'Distributed Systems']",pythonmultipurpose,207069,Advanced Python
+872,"[u'Human Resources', u'Project Management']",pplteamman,509,People and Team Management
+873,[u'Data Visualization'],vizdata,154553,Visualizing Data
+874,[u'HTML'],html,271,HTML
+875,"[u'Red Hat', u'Linux']",rhel6v7,82356,RHEL 6 vs RHEL 7
+876,"[u'Microbial Genomics', u'Bio']",mgmint,113079,Introduction to Microbial Genomics & Metagenomics
+877,[],BCIdesdel,206361,BCI Designing and Delivering Effective Exercises
+878,[u'Soft Skills'],stressman,199885,Jak skutecznie radzić sobie ze stresem. Sztuka zarządzania emocjami
+879,[u'CouchDB'],couch,134700,Apache CouchDB for Developers
+880,[u'SOA Governance'],soagov,29037,SOA Governance
+881,"[u'Strategic Management', u'Brand Management', u'Management', u'WOFE', u'China Business', u'Change Management']",busicn,94120,Starting Business in China
+882,[u'Adobe'],aprep,3253,Adobe Premiere Pro
+883,"[u'C-sharp', u'Microsoft .NET']",822,822,C#.Net
+884,[],ProcesSC,203801,Supplychain management
+885,"[u'Database', u'Oracle']",o11gadm,556,Oracle 11g - Administracja - warsztaty
+886,"[u'Design Patterns', u'Python', u'Programming']",wppyth,15732,Wzorce  projektowe w Python
+887,[u'MATLAB'],matlabfincance,205333,Matlab for Finance
+888,[u'SOA ESB Integration'],TalendESB,209048,Talend Open Studio for ESB
+889,"[u'Database', u'Access', u'Microsoft Office']",3041,3041,Access Advanced
+890,[u'Soft Skills'],decm,99896,Diferencia Entre Coaching y Mentoring
+891,"[u'Distributed Applications', u'NoSQL', u'Big Data', u'Database', u'Developer', u'Java']",accumulo,201184,Apache Accumulo: Building highly scalable big data applications
+892,[u'Scrum'],safeSM04,117042,SAFe® 4.0 Advanced Scrum Master Course with ASM Certification
+893,[u'SQL'],transsqlbas,460,Transact SQL Basic
+894,"[u'Database', u'Data Visualization', u'Computer', u'NoSQL', u'Big Data', u'Data Analysis', u'Data Mining', u'neo4j']",neo4j,199973,Beyond the relational database: neo4j
+895,[u'KAIZEN'],kaizen1,113907,KAIZEN
+896,[u'Six Sigma'],765,765,Introduction to Six Sigma
+897,[],bspkannmldt,98068,"Artificial Neural Networks, Machine Learning and Deep Thinking"
+898,[u'Machine Learning'],mldlct,207437,Machine Learning and Deep Learning - Concepts and Technicalities
+899,"[u'Microservices', u'Apigee Edge']",apigeee,141129,Building Microservices with Apigee Edge
+900,"[u'Oracle', u'PL/SQL']",3419,3419,Oracle 11g - Programming with PL / SQL II
+901,"[u'Project', u'Human Resources', u'Project Management']",zphr,100058,Zarządzanie projektami dla HR
+902,"[u'Microservices', u'Web Services']",WSO2,205097,WSO2 API Manager for developers
+903,"[u'MSSQL', u'Database', u'SQL']",66437,66437,Microsoft SQL Server 2008/2012 (MSSQL)
+904,[u'Programming'],pythonprog1,97998,Programowania w języku Python - szybki kurs
+905,"[u'MSSQL', u'Database', u'SQL']",3092,3092,SQL language in MSSQL
+906,[u'PHP'],phpdev,247,Developing Websites with PHP
+907,"[u'Photoshop', u'Adobe', u'Computer Graphics', u'InDesign', u'Computer graphics DTP']",tgapai,584,"Graphic techniques (Adobe Photoshop, Adobe Illustrator)"
+908,[],phylor,199005,Multivariate Analysis with R (Phylogenetics)
+909,[],bspsqljrc,200789,Bespoke SQL Course (JRC Petten)
+910,"[u'Scrum', u'Agile', u'Soft Skills', u'Software Design', u'Software Testing']",userstories,142357,Praktyczny warsztat tworzenia User Stories
+911,"[u'SQL', u'Oracle', u'PL/SQL']",PLSQL12cintro,155209,Oracle 12c – Wprowadzenie do programowania w PL/SQL
+912,"[u'Version Control Systems', u'Computer']",tfs2012,200176,Administering Team Foundation Server 2012
+913,"[u'Computer', u'Information System Security']",infosecmp,99498,Information Security Management Principles
+914,"[u'Linux', u'FreeBSD']",ksuswsf,598,Konfiguracja sieci i usług sieciowych w systemie FreeBSD
+915,[u'Computer'],m2m1,95249,Machine-to-Machine (M2M)
+916,[u'Statistics'],advspsspas,3115,Advanced Statistics using SPSS Predictive Analytics Software
+917,[],BDB,192997,Big Data / Bespoke
+918,[u'SOA'],soamgrdev,114966,SOA for Managers & Developers
+919,[u'Embedded Systems'],ooprogc,197785,Object Oriented Programming with C++
+920,"[u'Database', u'MongoDB', u'NoSQL']",mongodbdev,406,MongoDB for Developers
+921,[u'Microsoft Authorised'],ms-40361,68858,MS-40361 Software Development Fundamentals MTA Exam 98-361
+922,"[u'Scrum', u'Business Analysis']",agileba,191768,Agile Business Analysis
+923,"[u'Business Plan', u'Business Motivation Model', u'Strategic Management', u'Strategic Planning', u'Business Analysis']",bplanbmm,337,Business Plan building with Business Motivation Model
+924,"[u'Inkscape', u'Computer Graphics']",inksp,3170,Inkscape and printing
+925,"[u'R', u'Data Mining', u'Big Data', u'Machine Learning']",dmmlr,114678,Data Mining & Machine Learning with R
+926,"[u'BPM', u'Business Rules', u'Drools', u'Artificial Intelligence', u'JBoss', u'Jboss Rules']",bldrools,733,Managing Business Logic with Drools
+927,"[u'Database', u'SQL', u'Google Cloud Platform']",cpd200,113801,CPD200: Developing Solutions on Google Cloud Platform
+928,"[u'Project Management', u'Systems Modeling', u'Software Design', u'Domain Driven Design']",dddintro,418,Introduction to Domain Driven Design
+929,[u'Cisco Security'],67525,67525,Cisco Unified Wireless Network (CUWN)
+930,"[u'GIT', u'Subversion']",gitvicsubv,360,Git for Victims of Subversion
+931,[],bizbiz,192552,Biztalk Training
+932,"[u'SQL', u'Oracle', u'PL/SQL']",SQL12cstro,155205,Oracle 12c – Strojenie Poleceń SQL - warsztaty
+933,[u'Web Server'],lighttpd,201140,"Lighttpd Web Server: Setup, Configuration and Administration"
+934,[u'Assertiveness'],320,320,Proactive People Management
+935,"[u'Data science', u'Data Mining', u'Excel VBA', u'Data Analysis', u'R']",danagr,207493,Data and Analytics - from the ground up 
+936,"[u'Data Visualization', u'C++', u'Machine Learning', u'Neural Networks', u'Deep Learning', u'Artificial Intelligence', u'Data science']",OpenNN,201136,OpenNN: Implementing neural networks
+937,"[u'Web Development', u'Design Patterns', u'PHP', u'Software Design']",dsgpatphp,3487,Design Patterns in PHP
+938,"[u'Mobile Programming', u'Angular', u'Mobile Development', u'Cross Platform Development']",ionic3,209029,Ionic3: Building cross-platform mobile apps with Ionic3 and Angular4
+939,"[u'VBA', u'Excel VBA', u'Excel']",3306,3306,Excel and VBA Programming for Audit and Finance Professionals
+940,"[u'Mobile Programming', u'Agile', u'Swift', u'iOS', u'Programming']",agiletdds,114618,"Agile, TDD and Swift"
+941,"[u'Data Analysis', u'Distributed Systems', u'Elasticsearch']",elasticsearchfordevs,203933,ElasticSearch for developers: building search and analytics solutions with Elasticsearch
+942,"[u'Software Engineering', u'MBSE', u'Software Design', u'Software Testing', u'Programming']",softeng,90036,Software Engineering
+943,[u'Linux'],linuxnetadmin,3065,Network Administering in Linux
+944,"[u'MATLAB', u'Data Mining']",matfin,208205,MATLAB for Financial Applications
+945,"[u'GCP - Cloud Infrastructure', u'Cloud Computing', u'Google Cloud Platform']",archgcp,206789,Architecting with Google Cloud Platform: Infrastructure
+946,"[u'BPM', u'BPMN', u'OCEB']",oceb2b200,335,OCEB2 OMG Certified Expert in BPM  - Business Intermediate Exam Preparation
+947,[u'Internet Security'],cas,201861,CAS: Setting up an single-sign-on authentication server
+948,[],sphinxsearch,209076,Sphinx Search Engine
+949,[],113895,113895,12.- MODELADO DE NEGOCIOS CON BPMN Y UML
+950,"[u'Functional programming', u'Java', u'Programming']",scalaadvanced,208837,Scala: Advanced object-functional programming
+951,"[u'OCUP', u'OMG', u'Software Design', u'UML']",uml2itmprep,266,OCUP2 UML 2.5 Certification - Intermediate Exam Preparation
+952,"[u'Database', u'DM7 Database', u'SQL', u'Big Data', u'DM Database', u'DM7', u'Database Migration', u'DM Database (2)', u'Apache ZooKeeper']",DM7,199620,Getting started with DM7
+953,[u'Business Intelligence'],powerbi,199533,Power BI
+954,"[u'BDD', u'Software Testing']",bddtest,2881,BDD - Behavioral testing of IT systems
+955,"[u'Mobile Programming', u'Swift', u'iOS']",swiftxcode,200269,iPhone and iPad Development using Swift 3 and Xcode 8 for iOS 10
+956,"[u'TensorFlow', u'R', u'Pattern Recognition', u'Machine Learning', u'Neural Networks', u'Deep Learning', u'Predictive Analytics', u'Artificial Intelligence', u'Quantitative Analytics']",datamodeling,200225,Pattern Recognition
+957,[u'Adobe'],acsmv,3821,Adobe Creative Cloud - Montaż video
+958,"[u'Sass', u'Web Development', u'Web Design', u'Web']",sass01,98090,Syntactically Awesome StyleSheets - Sass
+959,"[u'Kubernetes', u'Docker']",dockkubernetes1,97474,Docker and Kubernetes
+960,"[u'KanBan', u'Change Management']",tkanm,209549,The Kanban Method (TKP) 
+961,[],oracleebsfinancial,207153,Oracle E-Business Suite: Financial Applications
+962,"[u'Blockchain', u'ethereum']",blockchaindevbespoke,207553,Blockchain for Developers - Bespoke
+963,"[u'Finance', u'Management']",782,782,Finanse dla niefinansistów 
+964,"[u'Performance', u'PHP']",phpopt,254,PHP Web Sites Optimization
+965,[],ibmfilenetimplementation,207145,IBM FileNet Content Manager: Implementation and Administration
+966,"[u'Cassandra', u'Big Data']",cassdev1,205849,Cassandra for Developers - Bespoke
+967,"[u'Test Automation', u'Web Application Testing', u'Automation Testing', u'Selenium Webdriver', u'Selenium']",TesAutSel,377,Test Automation with Selenium
+968,"[u'GIT', u'MySQL']",1126,1126,Database Version Control (dbv)
+969,[],osqlbgnde,97975,Oracle SQL dla początkujących
+970,"[u'Autosar', u'Programming']",HMIAUTO,130117,HMI Development for Automotive Infotainment Systems 
+971,"[u'Corporate Compliance', u'Internet Security']",basel3,94174,Basel III – Certified Basel Professional
+972,"[u'JavaScript', u'Node.js']",protojsbs,95087,Prototyping using JavaScript and Bootstrap
+973,"[u'iOS', u'Mobile Development']",121220,98002,iOS Application Development
+974,[],simplecv,141193,Computer Vision with SimpleCV
+975,"[u'Soft Skills', u'Professional Development']",ccarestr,191613,Customer Care Strategy
+976,"[u'BPM', u'BPMN', u'BPMS']",bpmbpmnbespoke,209461,Business Process Management with BPMN 2.0
+977,[],insurtechsecurity,207181,Insurtech: Online Security for Insurance
+978,"[u'JBoss', u'Business Rules', u'Jboss Rules', u'Drools']",drools6int,8146,Introduction to Drools 6 for Developers
+979,"[u'JavaScript', u'Web Development', u'MongoDB', u'Mobile Development', u'Cross-platform development']",meteor,201740,Meteor: Use JavaScript to develop cross-platform mobile applications
+980,[],SystEngFund,191365,Foundations of the System Engineering (SE) and Architecture Frameworks (2 or 3 days)
+981,[u'Lean'],leandistribution,206785,"Lean Distribution: Implementing Lean in distribution, logistics, and supply chain operations"
+982,"[u'Scrum', u'Agile', u'Project Management']",prodown,198185,Preparation for Professional Product Owner
+983,[u'Microsoft .NET'],advnet2dev,441,Advanced Foundations of .NET 2.0 Development
+984,[u'Embedded Systems'],armtech,197793,ARM Technology
+985,"[u'Adobe', u'Photoshop', u'Computer Graphics']",tgapaidpp,121009,Techniki Graficzne dobre praktyki projektowania.
+986,"[u'JavaScript', u'Design Patterns', u'jQuery', u'Programming']",jsjqmvc,3516,Javascript / jQuery - MVC frameworks / MVVM and multilayer applications on the client side
+987,[],itilppo,68493,ITIL®: Intermediate Capability Stream: Planning Protection & Optimization (PP&O)
+988,[u'Sensor Fusion'],sfa,134632,Sensor Fusion Algorithms
+989,"[u'Statistics', u'R']",67795,67795,Numerical Methods
+990,[u'Nools'],noolsint,8152,Introduction to Nools
+991,"[u'JavaScript', u'Web Development', u'HTML', u'PHP']",3096,3096,Creating and managing Web sites
+992,"[u'SQL', u'Oracle', u'PL/SQL']",SQL_AN1,155189,Oracle 12c – Język SQL dla analityków I - warsztaty
+993,[u'Soft Skills'],3099,3099,Conflict Management
+994,"[u'SOA', u'Technologies Overview']",soaarchmgr,263,SOA for Architects and Managers Overview
+995,"[u'GCP - Data and Machine Learning', u'Machine Learning', u'Google Cloud Platform']",cpde,206689,Data Engineering on Google Cloud Platform
+996,"[u'Database', u'Access', u'SQL']",sqlmsa,351,SQL in Microsoft Access
+997,[u'Secure Code'],CL-CHS,154925,Crypto Chip-Set Security
+998,"[u'Inspiring Leader', u'Soft Skills', u'Mentoring', u'Coaching']",budzesp,143053,Budowanie i zarządzanie zespołem
+999,"[u'Soft Skills', u'Assertiveness', u'Human Resources', u'Professional Development', u'Management']",infavdconf,97111,Influencing and Avoiding Conflict
+1000,"[u'Finance', u'Microsoft Office', u'Excel']",excelfin,3117,Financial analysis in Excel
+1001,"[u'Scrum', u'Mobile Programming', u'Agile', u'Cross Platform Development']",InfraDevOps,199405,Software Development for DevOps
+1002,[u'Angular'],angular4adv,209016,Angular 4: Advanced
+1003,"[u'BPM', u'BPMN', u'OCEB']",ocebb300,336,OCEB Certified Expert in BPM - Business Advanced Exam Preparation
+1004,"[u'Automation Testing', u'Software Testing', u'Selenium', u'Test Automation', u'Selenium Webdriver', u'Web Application Testing', u'Mobile Development']",selendroid,203016,Selendroid: Automated testing for Android
+1005,"[u'Database', u'Oracle', u'SQL']",3358,3358,Oracle 11g - SQL language for developers - Workshop
+1006,"[u'MATLAB', u'Machine Learning']",matlabml1,97759,Introduction to Machine Learning with MATLAB
+1007,"[u'Chef', u'Computer', u'Configuration Management']",chefcm,94310,Chef Configuration Management
+1008,"[u'Test Automation', u'Automation Testing', u'Selenium Webdriver', u'Selenium']",selvictest,67756,Selenium for Victims of Manual Testing
+1009,[u'Secure Code'],cl-nwa,154873,"Advanced C#, ASP.NET and Web Application Security"
+1010,[u'TensorFlow'],tf101,132213,Deep Learning with TensorFlow
+1011,[u'Drupal'],drupal7dev,248,Drupal 7 for Developers
+1012,"[u'Test Automation', u'Automation Testing']",selwebd,143644,Complete Web Testing Environment with Selenium WebDriver and JMeter
+1013,[],ISAM2,191629,ISTQB CTFL - AT
+1014,"[u'R', u'Machine Learning', u'Neural Networks']",MLFWR1,74893,Machine Learning Fundamentals with R
+1015,"[u'CSS', u'Bootstrap', u'jQuery', u'JavaScript', u'Web Design', u'HTML']",fodev,141209,Front End Developer
+1016,[],environM,203841,Environment management - ISO 14001
+1017,"[u'Statistics', u'R', u'Python', u'Big Data', u'Data Analysis', u'Predictive Analytics', u'Data science', u'Data Mining']",DatSci7,203097,Data Science Programme
+1018,[u'MATLAB'],bpmatlab,134913,Basic MATLAB Programming
+1019,[],lec-iot,200213,IoT Management Event Talk
+1020,[],adobedynamictagmangement,207473,Adobe Dynamic Tag Management
+1021,[u'Information System Security'],autosec,199013,Automotive Security - An Overview Session
+1022,[u'Django'],django,134989,Web Development with Django
+1023,[],itilrcv,68492,"ITIL®: Intermediate Capability Stream: Release, Control & Validation (RC&V)"
+1024,[u'Video Streaming'],digvidstross,94145,Digital Video Streaming with Open Source software
+1025,[u'Cloud Foundry'],dclfd1,134737,Developing for Cloud Foundry
+1026,[u'jBPM'],jbpm7casemgmt,207729,JBPM: Case Management with JBPM v7
+1027,"[u'Database', u'SQL', u'MySQL']",3044,3044,Using and managing the database in MySQL
+1028,"[u'Cloud Computing', u'Big Data']",bdbitcsp,23439,Big Data Business Intelligence for Telecom and Communication Service Providers
+1029,[u'Mobile Development'],bspmdev,199853,Bespoke Mobile Apps Development
+1030,"[u'Java EE', u'Web Server', u'Web application framework', u'Web Development']",jetty,208241,Jetty: Embedding a web server inside your application
+1031,"[u'DMN', u'BPMN', u'CMMN']",bpmndmncmmn,192873,"BPMN, DMN, and CMNN - OMG standards for process improvement"
+1032,[u'Quantitative Analytics'],ImpEvalQuatAnal,95349,Impact Evaluation – Quantitative Analysis 
+1033,[],bscomws,208905,Comprehensive Wireshark
+1034,"[u'jBPM', u'Jboss Rules', u'JBoss', u'Drools']",droolsrlsadm,66247,Drools Rules Administration
+1035,[u'Android'],androidfunfast,207657,Android Fundamentals - Fast Track
+1036,[u'Soft Skills'],3110,3110,Coaching - basic introduction
+1037,"[u'Finance', u'Forex', u'MQL4']",466,466,Expert Advisor Programming
+1038,[u'Google Cloud Platform'],cpb200,113799,CPB200: Google BigQuery for Data Analysts
+1039,"[u'MSSQL', u'SQL', u'MySQL']",SQL100,98930,T-SQL Fundamentals with SQL Server Training Course
+1040,"[u'Node.js', u'Express', u'AngularJS', u'Angular', u'MEAN Stack', u'MongoDB', u'JavaScript']",mean1,94186,Building Web Apps using the MEAN stack
+1041,"[u'Scrum', u'Agile', u'Project Management', u'Software Testing', u'Business Analysis']",condev,152981,Contemporary Development Principles and Practices
+1042,"[u'Apache', u'Java EE', u'Project Management', u'Java']",apachemaven,97157,Apache Maven
+1043,[u'Gimp'],gimpintro,294,Introduction to Gimp
+1044,"[u'Internet Security', u'Hands on Security']",eccehcm,94169,EC-Council – Ethical Hacking and Countermeasures
+1045,[],introws,155453,Introduction to WebServices
+1046,"[u'Computer Vision', u'Machine Vision', u'OpenCV']",opencv,141081,Computer Vision with OpenCV
+1047,"[u'Statistics', u'R']",rlang,97977,R
+1048,[u'SOA'],soaadv,3072,"Advanced SOA - Architected, Governed, Integrated, and Cloud-Ready"
+1049,[u'Marketing'],pginttrade,386,A Practical Guide to International Trade
+1050,"[u'JavaScript', u'Node.js', u'AngularJS', u'jQuery']",jsjqan,200761,"JavaScript, jQuery, NodeJS & AngularJS"
+1051,"[u'Java EE', u'Distributed Applications', u'Web Server']",resin,201841,Resin: Setting up a Java Application server for web applications spanning hundreds of servers
+1052,"[u'Embedded Linux', u'Embedded Systems']",linfund,197749,Linux Fundamentals
+1053,[u'Python'],pythonautomation,207689,Python: Automate the boring stuff
+1054,[],BusiCon,203809,Business Continuity ISO 22301
+1055,[u'DevOps'],DEVOPS,130137,Fundamentals of  Devops
+1056,[u'Responsive Design'],litbsp,200029,Responsive Web Design and Introduction to Bootstrap
+1057,"[u'Data science', u'Neural Networks', u'Artificial Intelligence', u'Machine Learning']",Fairsec,205285,Fairsec: Setting up a CNN-based machine translation system
+1058,"[u'MariaDB', u'Database', u'SQL', u'NoSQL', u'MySQL']",mariadbdev,90048,MariaDB 10 Developer Course
+1059,[u'Drupal'],9386,9386,Drupal Installation and Configuration
+1060,[],Sls101,207085,Sales Skills 101
+1061,[u'C-sharp'],pwpf45,358,Programming in WPF 4.5
+1062,[],aurelia0,206205,aurelia
+1063,"[u'Apache Spark MLlib', u'NLP']",aitech,199320,Artificial Intelligence - the most applied stuff - Data Analysis + Distributed AI + NLP
+1064,"[u'Embedded Linux', u'Programming', u'Embedded Systems']",embsyspg,200185,Embedded System Programme
+1065,"[u'Scrum', u'Agile']",3587,3587,Managing Projects using Waterfall and Agile Techniques
+1066,[u'Requirements Engineering'],pkwcirebcpre,8949,"Exam preparation: requirements elicitation and consolidation, IREB CPRE AL certification"
+1067,"[u'Automation Testing', u'Microsoft .NET', u'Software Testing', u'Selenium', u'Test Automation', u'Selenium Webdriver', u'Visual Studio', u'Web Application Testing']",seleniumCsharp,201348,Selenium WebDriver in C#: Introduction to web testing automation in C#
+1068,"[u'Jboss Rules', u'Business Rules', u'JBoss', u'Drools', u'Technologies Overview']",brmsdrools,273,Business Rule Management (BRMS) with Drools
+1069,[u'Mercurial'],mercusr,346,Mercurial for Users
+1070,"[u'Test Automation', u'BDD', u'Automation Testing', u'Software Testing', u'Web Application Testing']",serenitybdd,203484,Serenity BDD: Writing better automated acceptance tests
+1071,"[u'Cloud Computing', u'Microsoft .NET']",azurearchitectures,192653,Architecting Microsoft Azure Solutions
+1072,"[u'VBA', u'Access']",2370,2370,Access VBA
+1073,[u'Soft Skills'],tecvpv,99902,Tecnica de Ventas (Para vendedores)
+1074,[u'Microsoft Office'],69353,69353,Creating online documents with Microsoft Sway
+1075,"[u'Soft Skills', u'Marketing']",JMM_BUY,143361,The Buyers Mind
+1076,"[u'Node.js', u'Express', u'MongoDB', u'Angular', u'MEAN Stack', u'JavaScript', u'Web Development']",meanangular4,209617,Angular 4: Building Web Apps using the MEAN stack
+1077,"[u'Neural Networks', u'Artificial Intelligence']",iop,97993,Inteligencja obliczeniowa w praktyce
+1078,"[u'TensorFlow', u'Deep Learning']",dlv,153389,Deep Learning for Vision
+1079,[u'Project Management'],95235,95235,"ITIL Expert, PMP & PRINCE2 Practitioner"
+1080,[u'Cloud Computing'],cloudarch,68726,Cloud Architect
+1081,"[u'Statistics', u'Machine Learning', u'Artificial Intelligence']",mlentre,204577,Machine Learning Concepts for Entrepreneurs and Managers
+1082,[u'Microsoft Office'],23543,23543,Microsoft Office Visio  – Creating Charts and Diagrams
+1083,[u'Ansible'],ansibleautointro,94413,Introduction to Ansible Automation
+1084,"[u'Hadoop', u'Big Data', u'NoSQL']",hadoopmapr,68963,Hadoop Administration on MapR
+1085,[u'Quantitative Analytics'],datacolmtd,95342,Data Collection Methods
+1086,[u'Deeplearning4j'],w2vdl4j,141189,NLP with Deeplearning4j
+1087,[u'Management'],476,476,Introduction to Management
+1088,[],mailman,142456,Customizing Email with GNU Mailman 3
+1089,"[u'IIS', u'Microsoft .NET']",iis7aspadm,567,IIS 7 and ASP.NET Administration
+1090,[],AMR5563,191917,Test Driven Development
+1091,"[u'Project', u'Project Management', u'Microsoft Office']",msproj1,3055,Project Management with Microsoft Project
+1092,"[u'iOS', u'Software Testing']",ioscdcuttdd,95230,"iOS Core Data, Concurrency, Unit Testing & TDD"
+1093,[u'Secure Code'],cl-sdm,155029,Management Overview on Microsoft SDL
+1094,"[u'SOA', u'BPMN']",soabpmn,281,Enabling SOA with BPM and BPMN
+1095,[],excelcustomzed2,199197,Excel Customized Course
+1096,[],scrumaap,113896,13.- ADMINISTRACIÓN ÁGIL DE PROYECTOS CON SCRUM
+1097,"[u'Blockchain', u'ethereum']",blockchaindev,204453,Blockchain for Developers
+1098,"[u'WebServer', u'Web Server', u'Video Streaming']",Red5,201144,Red5: Setting up a live streaming media server
+1099,[u'SOA'],soadg,153001,Service Oriented Analysis Design and Governance
+1100,"[u'Percona', u'MongoDB']",percsera,142597,Administrating Percona Server for MongoDB
+1101,[u'Cisco Security'],waaacdwtacacs,3754,One Day Workshop for AAA of Cisco Devices using a Windows-based TACACS+ Server
+1102,[u'Database'],datamgmt,199352,Data management
+1103,[u'Information System Security'],cybsecaut,199121,Need of Information Security for Automotive Industry
+1104,[u'Statistics'],jkppswbns,68396,Jak kłamać przy pomocy statystyki – wychwytywanie błędów i nadużyć statystyki
+1105,"[u'WebServer', u'Network administration', u'TCP/IP Networking']",varnish,202132,Varnish: Speeding up your website with HTTP reverse proxy caching
+1106,"[u'Perl', u'Programming']",perl,291,Perl Programming
+1107,"[u'GCP - Your Gateway to GCP', u'GCP - Cloud Infrastructure', u'GCP - Application Development', u'Cloud Computing', u'Google Cloud Platform']",cp100a,100038,Google Cloud Platform Fundamentals: Core Infrastructure
+1108,[u'Java'],javaint,143208,Java Intermediate - one day
+1109,"[u'Jboss Rules', u'Business Rules', u'JBoss', u'Drools']",drools7dslba,201160,Drools 7 and DSL for Business Analysts
+1110,"[u'Virtualization', u'Configuration Management']",vagrant,201805,Vagrant: Instantaneously create and manage a bunch of virtual machines
+1111,"[u'Change Management', u'Management']",lean5s,208949,Lean 5S for Non-Manufacturing Purposes
+1112,[u'Java'],struts2,321,Struts 2 Framework
+1113,"[u'JavaScript', u'Adobe']",as3,322,ActionScript 3.0 Programming
+1114,[u'Bio'],drugdsg,392,Drug Design
+1115,[u'Oracle'],3134,3134,Oracle Application Express Introduction
+1116,[],singa,141233,Mastering Apache SINGA
+1117,"[u'Soft Skills', u'Human Resources']",29030,29030,Train the trainers - trening kompetencji trenerskich
+1118,[u'jBPM'],jbpmdev,419,jBPM for Developers
+1119,"[u'WordPress', u'Web Development', u'Web Design', u'Web']",WordPress,113083,WordPress
+1120,[u'Java'],javaspring,3060,Java Spring
+1121,"[u'Jboss Rules', u'Business Rules', u'JBoss', u'Drools']",drools7int,201164,Introduction to Drools 7 for Developers
+1122,[u'Google Cloud Platform'],cp300a,100041,CP300A: Google Cloud Platform for Developers
+1123,"[u'Mobile Programming', u'Swift', u'iOS', u'Programming']",ios_swift3,198965,iOS (iPhone and iPad Development) in Swift for iOS 10 and Xcode 8 - Swift 3
+1124,"[u'Virtualization', u'Microsoft .NET']",appv,206909,Microsoft App-V: Implementing enterprise desktop virtualization
+1125,[u'Cisco Security'],wpeapawscw,3757,One Day Workshop for PEAP Authentication of Windows 7 Supplicant using a Cisco Switch as Authenticator and Windows 2008 R2 Server
+1126,"[u'Scrum', u'Agile', u'Management']",tcpsmlp,95350,Techniki coachingowe w pracy Scrum Mastera / Lidera Projektu
+1127,"[u'JavaScript', u'jQuery']",jqueryadv,421,jQuery Advanced
+1128,[],AM5564,191913,ISTQB CTAL - TTA
+1129,"[u'Strategic Management', u'Change Management', u'Strategic Planning']",changeman,534,Change Management
+1130,"[u'Automation Testing', u'Software Testing', u'Test Automation', u'Performance Testing', u'Web Application Testing', u'Web Services']",soapui,204517,SoapUI: Introduction to API testing with SoapUI
+1131,"[u'PHP', u'Software Testing', u'Java', u'Domain Driven Design']",qaci,3592,Quality Assurance and Continuous Integration
+1132,"[u'Database', u'Aerospike', u'NoSQL']",aerosdev,153117,Aerospike for Developers
+1133,"[u'Neural Networks', u'Technologies Overview', u'Artificial Intelligence']",aiint,344,Artificial Intelligence Overview
+1134,"[u'BPM', u'BPMN', u'BPMS', u'Business Analysis']",bpmn2funws,98020,BPMN 2 Fundamentals and Workshop
+1135,[u'Enterprise Architecture'],archpat,99983,Architectural Patterns
+1136,"[u'Deep Learning', u'Artificial Intelligence', u'Machine Learning']",mchdeeplearn,205249,Introduction à l’intelligence artificielle : outils et enjeux
+1137,"[u'Soft Skills', u'Mentoring', u'Coaching', u'Management']",line,204096,Leadership in the new economy
+1138,[],itilsm,3634,ITIL® Foundation Certificate in IT Service Management
+1139,"[u'Web Development', u'Drupal']",drupaltheme,3077,Drupal Theming
+1140,[],bpob,98083,Business Process Optimization in Banking
+1141,[u'Magento'],magentoforsales,209457,Magento for sales reps
+1142,"[u'TensorFlow', u'Neural Networks']",tpuprogramming,208853,TPU Programming: Building Neural Network Applications on Tensor Processing Units
+1143,"[u'Apache', u'Tomcat']",apachetomcat,308,Apache Tomcat Administration
+1144,[],ProcesA,203785,Processes and Controls auditing
+1145,[u'iOS'],ios8xcode6dev,68724,iPhone and iPad Development using iOS 8 and Xcode 6
+1146,"[u'Web Development', u'HTML', u'Programming']",3049,3049,Creating Web Pages with HTML
+1147,"[u'R', u'Hadoop', u'Data Mining', u'Big Data', u'NoSQL']",bigddbsysfun,114670,Big Data & Database Systems Fundamentals
+1148,"[u'MBSE', u'Software Design', u'UML', u'Business Analysis']",umlad,249,UML Analysis and Design
+1149,"[u'AWS', u'DevOps']",awsdev,201009,AWS DevOps Engineers
+1150,[],moodleadmin,207237,Moodle for Administrators
+1151,[u'SharePoint'],shareintro,203057,SharePoint Introduction
+1152,"[u'BPM', u'BPMS', u'Business Analysis']",bpmess,2906,BPM Essentials
+1153,[u'Soft Skills'],didactictb,2661,Build your Didactic Toolbox
+1154,"[u'Human Resources', u'Professional Development']",busics,99480,Business Communication Skills
+1155,[u'Secure Code'],cl-pcr,154985,Practical Cryptography for Software Engineers
+1156,[u'Cisco Security'],waaacdwnpsr,3755,One Day Workshop for AAA of Cisco Devices using Windows 2008 NPS RADIUS
+1157,[u'JavaScript'],JavaBankingCust,154701,JavaScript Customized Banking Outline
+1158,[u'BPM'],pegasa,207089,Pega for Senior System Architects -- DEPRECATED
+1159,"[u'VBA', u'Programming', u'Computer', u'Excel VBA', u'Excel']",3164,3164,Visual Basic for Applications (VBA) for Analysts
+1160,[u'Secure Code'],cl-jad,154849,Advanced Java Security
+1161,"[u'OWASP', u'Software Testing']",owasp,135077,Web Security with the OWASP testing framework
+1162,[u'Cloud Foundry'],dpcloud,134741,Deploying Cloud Foundry 
+1163,"[u'Deep Learning', u'Neural Networks', u'Machine Learning']",intrdplrngrsneuing,205245,Introduction Deep Learning & Neural Networks for Engineers
+1164,[u'Apache'],3436,3436,"Nginx, Apache, JVM, JSP & JBoss"
+1165,"[u'Adobe', u'Photoshop']",3050,3050,Adobe Photoshop
+1166,[u'Lean'],LeanIT,206721,Lean IT: Applying the principles of Lean to IT operations
+1167,"[u'Data science', u'Neural Networks', u'Artificial Intelligence', u'Machine Learning']",opennmt,204981,OpenNMT: Setting up a Neural Machine Translation system
+1168,"[u'Enterprise Architecture', u'Nato Architecture Framework (NAF)', u'UAF', u'MODAF', u'DoDAF']",OMGUAF1,192053,OMG Unified Architecture Framework (UAF)
+1169,"[u'Lua', u'Programming']",luaemb,69064,Lua Embedding
+1170,"[u'Apache Spark', u'Data science', u'Hadoop', u'Big Data', u'Data Analysis']",hdp,209445,Hortonworks Data Platform (HDP) for administrators
+1171,"[u'Apache Spark', u'Big Data']",sparkdev,113228,Spark for Developers
+1172,[u'MooseFS'],moosefs,113231,Administration of Moose File System (MooseFS)
+1173,[],softs1,206565,Sales & Soft Skills Training 
+1174,[],bspmtip,200037,Applications of Image processing
+1175,[u'Management'],5s,208869,Lean5S
+1176,[u'RPA'],blueprism,208261,Blue Prism: Creating your Robotic Workforce
+1177,"[u'C-sharp', u'Microsoft .NET']",asp4,437,ASP.Net 4.0
+1178,[],insurtechblockchain,207169,Insurtech: Blockchain for Insurance
+1179,[],digitalT,202213,Digital Transformation - Turning Digital Disruption into Opportunity  
+1180,[u'Ember'],emberadv,202453,EmberJS Advanced
+1181,[],Process,203781,Process improvement
+1182,"[u'Internet Security', u'Hands on Security']",secitp,94172,Security for IT Practitioners
+1183,[u'Neural Networks'],neuralnet,3629,Introduction to the use of neural networks
+1184,[u'Drupal'],drupal_in_depth,97460,Drupal in Depth
+1185,"[u'Soft Skills', u'Management']",ledman,99900,Liderazgo Gerencial
+1186,[u'Soft Skills'],3109,3109,The influence of emotions on communication and collaboration with others
+1187,"[u'Enterprise Architecture', u'Nato Architecture Framework (NAF)', u'MODAF']",naf,420,Nato Architecture Framework (NAF)
+1188,"[u'Towards Goals', u'Towards People', u'Person To Person Skills', u'Mentoring', u'Coaching', u'Professional Development']",1,97967,Leadership 101
+1189,"[u'Neural Networks', u'Artificial Intelligence']",pjn,97994,Przetwarzanie języka naturalnego
+1190,[],bigdataforinsurance,207161,Insurtech: Big Data for Insurance
+1191,"[u'OCRES', u'OCSMP', u'OCUP', u'OMG', u'Software Design', u'UML']",ocup-2-f100,265,OCUP2 UML 2.5 Certification - Foundation Exam Preparation
+1192,"[u'Kubernetes', u'Docker']",dockkubernetes2,115930,Docker and Kubernetes for Interior Electronics Solutions 
+1193,[u'Secure Code'],cl-wps,155005,Windows Phone Security
+1194,"[u'Business Motivation Model', u'Agile', u'Technologies Overview', u'Business Analysis']",lbatogafam2,96710,Putting Enterprise Architecture in Practice
+1195,[],Outsystemswebapp,207381,Outsystems: Developing Business Web Apps
+1196,"[u'PowerPoint', u'Microsoft Office']",3112,3112,Creating and delivering presentations in Power Point (social skills workshop)
+1197,"[u'Performance Testing', u'Web Application Testing', u'Test Automation', u'Automation Testing', u'Software Testing']",hpuft,191109,Test automation with HP UFT
+1198,[u'Secure Code'],cl-jnw,154905,"Combined JAVA, .NET and Web Application Security"
+1199,"[u'Enterprise Architecture', u'Technologies Overview']",modafome,100070,MODAF Overview and Modelling the Enterprise
+1200,"[u'PHP', u'Web application framework']",advancedcakephp,200585,Advanced CakePHP
+1201,"[u'Scrum', u'Agile']",scrumess,116174,Scrum Essentials Workshop
+1202,[u'Drupal'],drupal8themes,304,Drupal 8 Themes
+1203,[u'Android'],66425,66425,Bespoke Android Development
+1204,[u'Google Cloud Platform'],cpo200,100039,Google Cloud Platform for Systems Operations Professionals
+1205,"[u'Enterprise Architecture', u'OCSMP', u'Software Design', u'Business Analysis', u'Requirements Engineering', u'MBSE', u'UML']",UML,3074,Object-Oriented Analysis and Design using UML
+1206,[u'Secure Code'],cl-cls,155009,Application Security in the Cloud
+1207,[u'Redis'],redis01,113232,Redis for Developers
+1208,"[u'VBA', u'Microsoft Office', u'Excel VBA', u'Excel']",3029,3029,Excel Advanced with VBA
+1209,[u'Apache'],zookeeper,198541,Apache Zookeeper
+1210,"[u'HTML', u'HTML5']",html5intro,417,Introduction to HTML 5
+1211,[u'SequoiaDB'],seqdba,142001,SequoiaDB for Administrators 
+1212,"[u'Hadoop', u'Big Data']",hadoopdeva,113237,Advanced Hadoop for Developers
+1213,[u'Financial Crime'],pdifinc,495,"Preventing, Detecting and Investigating Financial Crime"
+1214,[u'Memcached'],memcached01,113247,Managing Memcached Servers
+1215,[u'Big Data'],altdomexp,114694,Analytics Domain Expertise
+1216,"[u'Business Motivation Model', u'Agile', u'Technologies Overview', u'Business Analysis']",bitsas,96699,Business and IT System Agility in the Digital Age
+1217,"[u'Drools', u'Artificial Intelligence', u'OptaPlanner']",optaprac,67542,OptaPlanner in Practice
+1218,"[u'Internet Security', u'Security Management']",cisa,94164,CISA - Certified Information Systems Auditor
+1219,"[u'OpenStack', u'Cloud Computing']",oabicsa,97150,OpenStack Administration - Basic + Intermediate (Certified System Administrator for OpenStack)
+1220,"[u'Yocto Project', u'Embedded Linux']",yp1,134677,The Yocto Project - An Overview - hands-on
+1221,"[u'MySQL', u'Elasticsearch', u'Configuration Management']",elastic3,146069,"Elasticsearch Complete Administration, Monitoring and Maintenance"
+1222,[u'SQL'],transsqladv,463,Transact SQL Advanced
+1223,"[u'R', u'Data Mining']",dataminr,68679,Data Mining with R
+1224,[u'Secure Code'],cl-sdw,154741,Web Application Security with SDL
+1225,[u'Secure Code'],cl-ans,154869,Comprehensive C# and .NET Application Security
+1226,[u'Blockchain'],blockchainfisc,192989,Blockchain for Financial Bodies
+1227,[u'Secure Code'],cl-nws,155013,Network Security
+1228,"[u'BDD', u'Working In A Team', u'Software Testing', u'Selenium', u'Selenium Webdriver', u'Web Application Testing', u'Web Development']",cucumber,201284,Cucumber: Implementing Behavior Driven Development (BDD) with Cucumber
+1229,"[u'LPI', u'Linux']",lpic2-202,324,Linux LPI LPIC-2 Exam 202 Preparation
+1230,"[u'jBPM', u'BPMN', u'BPMS']",jbpmpd,3,jBPM for Process Designers
+1231,"[u'JavaScript', u'Web Development', u'Web application framework', u'Programming']",typescript,200392,Typescript
+1232,[],StatLaw,152957,Statistics for Business Analysis in Law Enforcement
+1233,"[u'Apache', u'Web Development', u'Jboss Rules', u'Web Server']",2794,2794,"HTTP Web Server (Nginx, Apache, JBoss)"
+1234,"[u'Internet Security', u'Hands on Security']",eccnetsecadm,94178,EC-Council - Network Security Administrator
+1235,"[u'Database', u'Data Visualization', u'Microsoft Office', u'SQL', u'Oracle', u'PL/SQL']",ORABI,207969,Praca z Oracle BI i BI Publisher 
+1236,[u'Blockchain'],blockchaintelecom,205361,Blockchain for Telecom 
+1237,"[u'MATLAB', u'Data Mining', u'Big Data']",matlabfundamentalsfinance,205417,MATLAB Fundamentals + MATLAB for Finance
+1238,"[u'Statistics', u'R', u'Predictive Analytics']",intror,134697,Introduction to R with Time Series Analysis
+1239,"[u'Soft Skills', u'Management']",frgdv,99899,Funciones y Responsabilidades del Gerente Distrital de Ventas
+1240,[u'Embedded Systems'],embcomp,197753,Introduction to Embedded Computers
+1241,"[u'MBSE', u'UML']",umlitba,397,UML for the IT Business Analyst
+1242,"[u'Computer', u'Outlook', u'Microsoft Office']",855,855,MS Outlook Advanced
+1243,"[u'ProcessMaker', u'BPM', u'BPMN', u'BPMS']",manbppm,327,Managing Business Processes with ProcessMaker
+1244,"[u'Corporate Governance', u'Finance']",compmlro,493,The Compliance and MLRO Refresher Programme
+1245,[u'BPMN'],bpmncomp,67958,Comprehensive BPMN 2 - From Analysis to Execution
+1246,"[u'Version Control Systems', u'Computer', u'Project Management']",423,423,Trac User and Administration
+1247,[u'Access'],23428,23428,Access Intermediate
+1248,"[u'Information Security Risk', u'Internet Security']",crisc,94183,CRISC  - Certified in Risk and Information Systems Control
+1249,[u'IoT'],digitalinsurancemanagers,208145,Insurtech: A practical introduction for managers
+1250,"[u'Web Development', u'Web application framework']",UberFire,209425,UberFire
+1251,"[u'Test Automation', u'Java']",javatesting,206325,Introduction to Java for test automation
+1252,"[u'Marketing', u'NHS']",MarketPrimaryNHS,200465,Marketing for primary care National Health Service NHS
+1253,"[u'Hadoop', u'Big Data']",hadoopdev,113236,Hadoop for Developers (4 days)
+1254,"[u'Inspiring Leader', u'Soft Skills', u'Coaching', u'Empowering Coach/Mentor/Trainer']",dzm,143061,DZM – delegowanie zadań i motywowanie pracowników
+1255,[u'Microsoft .NET'],aspnetmvc45,821,ASP.NET MVC 4.5 Web Development
+1256,"[u'Adobe', u'Computer Graphics']",ailust,3083,Adobe Illustrator
+1257,[],Insurtechintrotoai,207157,Insurtech: Introduction to AI for Insurance
+1258,"[u'Access', u'Microsoft Office', u'SQL']",3082,3082,Microsoft Access - download the data
+1259,"[u'Data Mining', u'Oracle', u'SQL']",osqlide,98141,Oracle SQL Intermediate - Data Extraction
+1260,[u'Linux'],linuxsec,3066,Linux Security
+1261,"[u'Enterprise Architecture', u'UPDM']",updmint,433,Overview of Unified Profile for DoDAF/MODAF (UPDM)
+1262,[],siebelsysadmin,207101,Siebel for Developers: Installation and Administration
+1263,"[u'C++', u'C++11', u'Programming']",cpp11,100120,C++ 11 Programming 
+1264,"[u'Wolfram', u'Mathematica', u'Programming']",wolfprog,154317,The Wolfram Language: Programming Fundamentals
+1265,"[u'Statistics', u'Strategic Management', u'Forex', u'Forecasting', u'R']",mrkfct,288,Market Forecasting
+1266,"[u'Statistics', u'Machine Learning', u'Neural Networks']",mlintro,67835,Introduction to Machine Learning
+1267,[],siebeltools,207109,Siebel for Developers: Tools
+1268,"[u'Hadoop', u'Data Mining', u'Big Data', u'Data Network']",bdhat,113877,Big Data Hadoop Analyst Training 
+1269,[u'Oracle'],838,838,Oracle Database 10g: Administration Workshop I Release 2
+1270,[],Negotiation,203793,Negotiation management
+1271,[u'UML'],umlmdl,3642,Data Modelling with UML
+1272,[u'Data Analysis'],datapyth,198153,Data Analysis in Python using Pandas and Numpy
+1273,"[u'SSIS', u'SQL']",68403,68403,Introduction to SQL Server 2012 Integration Services (SSIS)
+1274,[u'Soft Skills'],811,811,Management Skills for Administrative Professionals
+1275,"[u'Linux', u'Technologies Overview', u'Ubuntu']",ubtsvr,301,Ubuntu Server Overview
+1276,[u'MATLAB'],smlk,197905,Simulink® for Automotive System Design
+1277,"[u'MSSQL', u'C-sharp', u'Microsoft .NET', u'SQL', u'Visual Studio', u'VB.NET']",ddavsvbsqls,3086,"Developing Desktop Applications with Visual Studio 2012, VB.NET and SQL Server 2012"
+1278,[u'Programming'],spadjango,97999,Single Page Application w Django i Backbone
+1279,[],7Caps,201933,Seven Thinking Caps
+1280,[u'Secure Code'],cl-jsc,154753,Standard Java Security
+1281,[u'InDesign'],indesign1,100064,Introduction to Adobe InDesign 
+1282,"[u'Statistics', u'Data Visualization', u'NoSQL', u'ABPD', u'Python', u'Big Data', u'Machine Learning', u'Distributed Systems', u'Data Analysis', u'R', u'Hadoop', u'Data Mining']",BigDataMongoAzureBespoke,204381,A practical introduction to Data Analysis and Big Data with Azure and MongoDB
+1283,"[u'Presentation Skills', u'Soft Skills']",PubSpeak,209089,PUBLIC SPEAKING
+1284,[u'Apache Spark MLlib'],spmllib,141237,Apache Spark MLlib
+1285,[u'Java with Adobe Flex'],flex4lcds3,436,Flex 4 and LiveCycle Data Services 3
+1286,"[u'Strategic Management', u'Management']",CorGovNPO,191941,Corporate Governance for Not-For-Profit Organizations
+1287,[u'Secure Code'],cl-cna,154913,"Combined C/C++/C#, ASP.NET and Web Application Security"
+1288,[],Preslaw,152961,Presentation of Analysis in Law Enforcement
+1289,[],opencl1,153509,OpenCL
+1290,[],bsphadp,201553,One Day Hadoop Overview
+1291,"[u'Haskell', u'Programming']",haskelladv,68883,Advanced Haskell
+1292,[u'Java'],3059,3059,Java Advanced
+1293,"[u'Statistics', u'Data Mining']",sspsspas,3114,Statistics with SPSS Predictive Analytics Software
+1294,[],dadsctrx,192561,Deploying App and Desktop Solutions with Citrix XenApp and XenDesktop 7.6 (CXD-300)
+1295,"[u'JavaScript', u'Mobile Programming', u'Web Development', u'Web', u'WebAssembly']",WebAssembly,200161,"Beyond Javascript: build fast, lean websites with WebAssembly"
+1296,"[u'VBA', u'Excel VBA', u'Excel']",excelvbag,3054,Excel and VBA Guru
+1297,[u'Kotlin'],kotlin,134809,Programming with Kotlin
+1298,"[u'Corporate Compliance', u'Information Security Risk', u'Internet Security', u'Information System Security']",gdpr,116198,"General Data Protection Regulation - zmiany prawne, wprowadzenie teoretyczne, praktyczne aspekty"
+1299,"[u'GlassFish', u'Java EE', u'Oracle', u'Java']",gfsjeeint,429,Administering GlassFish Server with Java EE applications introduction
+1300,"[u'Linux', u'Virtualization']",flatpak,201736,Flatpak - the future of application distribution
+1301,[u'Oracle'],oracleperftun,374,Oracle Database 11g: Performance Tuning
+1302,"[u'Statistics', u'Executive Overview']",statdm,66290,Statistical Thinking for Decision Makers
+1303,"[u'Hadoop', u'Big Data']",68736,68736,Hadoop for Developers (2 days)
+1304,"[u'Web analytics', u'Hadoop', u'Big Data', u'Data Analysis']",kylin,208445,Apache Kylin: From classic OLAP to real-time data warehouse
+1305,"[u'R', u'Data Visualization', u'NLP', u'Data Analysis']",nlpwithr,201548,NLP: Natural Language Processing with R
+1306,"[u'Statistics', u'Hadoop', u'Big Data']",apacheh,28938,Administrator Training for Apache Hadoop
+1307,"[u'Statistics', u'Six Sigma']",sixsigmayb,317,Six Sigma Yellow Belt
+1308,"[u'Dashboard', u'Business Analysis']",dashbuilder,209429,Dashbuilder for business users
+1309,[u'Google Cloud Platform'],cpa200,100040,CPA200: Google Cloud Platform Architect Fundamentals
+1310,"[u'geospatial analysis', u'Geospatial analytics', u'Apache Spark', u'Business Intelligence']",magellan,209473,Magellan: Geospatial Analytics with on Spark
+1311,"[u'bluemix', u'Blockchain', u'hyperledger']",hyperledgerbluemix,205985,Hyperledger Fabric for Beginners
+1312,[u'Soft Skills'],skobki,143265,Skuteczna Obsługa Klienta
+1313,"[u'Lean', u'Management']",leanservices,206777,Lean Services: Lean management for the service industry
+1314,"[u'CSS', u'MediaWiki', u'PHP']",mwdev1,68618,MediaWiki for Developers
+1315,"[u'Microsoft Office', u'Word']",3053,3053,Word Advanced
+1316,[u'Bio'],geneticsint,375,Introduction to Genetics
+1317,[u'Responsive Design'],html5wd,113897,16.- CREACIÓN DE SITIOS WEB CON HTML5 Y RESPONSE WEB DESIGN
+1318,"[u'Cloud Computing', u'IoT', u'Big Data']",iotemi,23432,"IoT (Internet of Things) for Entrepreneurs, Managers and Investors"
+1319,"[u'Data science', u'Hadoop', u'Data Mining', u'Big Data', u'Database']",ApHadm1,205589,Apache Hadoop: Manipulation and Transformation of Data Performance
+1320,"[u'Soft Skills', u'Management']",810,810,Management Skills for technical staff
+1321,[u'Statistics'],statsman,362,Statistics for Managers
+1322,"[u'Bio', u'Assertiveness']",sccomm,395,Scientific Communication
+1323,"[u'Computer', u'Excel']",784,784,Microsoft Office Excel - poziom średniozaawansowany
+1324,"[u'KanBan', u'Project Management', u'Change Management', u'Professional Development', u'Management']",kanban1,100034,Kanban Management Professional 1
+1325,[u'Strategic Management'],1125,1125,Balanced Scorecard
+1326,"[u'BPMN', u'UML']",bpmnuml,96720,Business Process Modeling using BPMN and UML
+1327,"[u'C++', u'Programming']",pcpp,3046,Programming in C++
+1328,"[u'Test Automation', u'Automation Testing', u'JMeter']",jmeterwebapp,258,Web Application Performance Testing with JMeter
+1329,"[u'Computer', u'Software Design']",softarcws,89988,Software Architecture Workshop
+1330,"[u'Adobe', u'Photoshop']",appe,3244,Adobe Photoshop - photo edition
+1331,"[u'Information Security Risk', u'Security Management', u'Risk Management', u'Information System Security']",iso27005,146553,Building up  information security according to ISO 27005 
+1332,[u'Microsoft Authorised'],ms-40374,68861,MS-40374 Gaming Development Fundamentals MTA Exam 98-374
+1333,"[u'Scrum', u'KanBan', u'Agile', u'Project Management', u'Management']",agilekanban,2765,Agile Project Management with Kanban
+1334,[u'NLP'],nlp,2887,Natural Language Processing
+1335,[],bpmndmn,204093,BPMN and DMN
+1336,[u'Android'],androiddev,563,Android Development
+1337,"[u'Scrum', u'Agile', u'Project Management']",agiletdd,2735,Agile TDD
+1338,"[u'PowerPoint', u'Soft Skills']",66256,66256,Presenting technical solutions to the world of non-engineers
+1339,"[u'Linux', u'Virtualization', u'Ubuntu']",snap,201797,Snap: Packaging and deploying your software universally
+1340,"[u'Access', u'Microsoft Office']",accbas,200677,Access Basics
+1341,"[u'Rocket.Chat', u'Collaboration']",RocketChat,199504,Running your own chat server with Rocket.Chat
+1342,"[u'Soft Skills', u'Human Resources', u'Assertiveness']",commtm,502,Communicating and Influencing For Team Members
+1343,"[u'Linux', u'Virtualization']",qemukvm,143889,"Virtualization with QEMU, KVM and Libvirt"
+1344,"[u'Microsoft Office', u'Excel']",3094,3094,Effective working with spreadsheet in Excel
+1345,[u'Drupal'],drupalsn,253,Building Social Networking Application in Drupal
+1346,[],as400rpgprogramming,207137,AS400: RPG IV Programming
+1347,"[u'Soft Skills', u'Management']",appcoagen,99897,Aplicacion de Coaching Gerencial
+1348,"[u'BPMN', u'BPM', u'OMG', u'OCEB']",oceb2f100,282,OCEB2 OMG Certified Expert in BPM - Fundamental Exam Preparation
+1349,"[u'Statistics', u'R', u'Computer']",datascience,154257,Data Science Training
+1350,[u'Soft Skills'],ZaKon,209085,TRUDNE SYTUACJE W ZESPOLE – ZARZĄDZANIE KONFLIKTEM
+1351,"[u'Statistics', u'R', u'Big Data']",dataar,113242,Data Analytics With R
+1352,"[u'C-sharp', u'Python', u'Perl', u'PHP', u'Ruby', u'Programming', u'Java']",ooprog,3839,Object-oriented programming
+1353,"[u'Developer', u'C++11', u'Programming']",qtprogramming,204341,QT Programming
+1354,"[u'Ruby', u'Automation Testing', u'Software Testing', u'Selenium', u'Test Automation', u'Selenium Webdriver', u'Web Application Testing']",seleniumruby,206321,Selenium with Ruby for test automation
+1355,"[u'Agile', u'Software Testing', u'Java']",agileutjava,201653,Wprowadzenie do zwinnego testowania jadnostkowego w Javie
+1356,[u'Working In A Team'],sevenhabits,203040,Habits of Highly Effective People
+1357,"[u'SQL', u'Oracle', u'PL/SQL']",PLSQL12cadv,155213,Oracle 12c – Zaawansowane programowanie w PL/SQL
+1358,"[u'BPMN', u'BPM', u'OMG', u'OCEB']",oceb2prep,209465,OCEB2 OMG - BPM - Exam Preparation
+1359,"[u'Database', u'Access', u'Microsoft Office']",AccIntr,3040,Access - Data Base Designing
+1360,[u'Secure Code'],cl-beh,154921,Beyond Ethical Hacking - Advanced Software Security
+1361,[u'Secure Code'],cl-wsc,154877,Web Application Security
+1362,"[u'Apache Spark', u'Hadoop', u'Big Data']",alluxio,209521,Alluxio: Unifying disparate storage systems
+1363,[],DKCDKPN,207357,Database Knowledge Community Day
+1364,"[u'Statistics', u'Six Sigma']",sixsigmagb,403,Six Sigma Green Belt
+1365,"[u'DTP Techniques', u'Computer Graphics', u'Computer graphics DTP', u'Adobe', u'Photoshop', u'InDesign']",dtp,3062,"DTP (InDesign, Photoshop, Illustrator, Acrobat)"
+1366,"[u'Internet Security', u'Hands on Security']",chfi,94181,CHFI - Certified Digital Forensics Examiner
+1367,[],itilmalc,68515,ITIL®: Intermediate: Managing Across the Lifecycle (MALC)
+1368,"[u'Computer', u'Excel']",EXL01,98159,Excel Training Level 1
+1369,[],indesigncs6,205381,Adobe InDesign CS6
+1370,"[u'Neural Networks', u'Artificial Intelligence']",sysagent,97995,Systemy wieloagentowe
+1371,[u'Business Intelligence'],JasperSoftBI,209149,JasperSoft BI
+1372,[u'DevOps'],DEVOPStoos,146112,DevOps Practical Implementation and Tools
+1373,"[u'Predictive Analytics', u'Big Data', u'Data Analysis']",desbidat,197873,Designing and Implementing Big Data Analytics Solutions
+1374,[],pengsem,95212,Process Engineering Seminars
+1375,"[u'Cassandra', u'Big Data']",cassadmin,191077,Cassandra Administration
+1376,"[u'Developer', u'GCP - Application Development', u'Google Cloud Platform']",develgcp,206793,Developing Solutions with Google Cloud Platform
+1377,[u'Drupal'],drupal8dev,259,Drupal 8 for Developers
+1378,"[u'Cloud Computing', u'Hadoop', u'Data Mining', u'Big Data', u'Business Intelligence']",mdlmrah,2847,Model MapReduce and Apache Hadoop
+1379,[],itilcsi,68488,ITIL®: Intermediate Lifecycle Stream: Continual Service Improvement (CSI)
+1380,[],insurtechjit,207173,Insurtech: Just-in-time Insurance Marketing
+1381,[],SpecWym,209261,Specyfikowanie wymagań dla zamawiających - szkolenie dedykowane
+1382,[u'Adobe'],adocap,3307,Adobe Captivate
+1383,"[u'Microservices', u'Cloud Computing', u'Web application framework', u'Java']",springcloud,204545,Spring Cloud: Building microservices with Spring Cloud
+1384,"[u'Performance Testing', u'Web Application Testing', u'Software Testing']",perftest,23443,Perfect tester
+1385,"[u'Apache Solr', u'Drupal']",drupalsolr,69290,Drupal and Solr
+1386,"[u'Soft Skills', u'Professional Development', u'Assertiveness']",ConResBe,209541,"Conflict Resolution, Assertiveness and Self Confidence"
+1387,[],dsintro,153805,Data Science Introduction
+1388,"[u'VBA', u'Excel VBA']",vbamidadv,200981,Visual Basic for Applications (VBA) w Excel - poziomu średni - zaawansowany
+1389,[],zabbix02,199677,Monitoring your resources with Zabbix
+1390,[u'Android'],androidfun,368,Android Fundamentals
+1391,"[u'SVN', u'Subversion']",subvadmin,275,Subversion for Administrators
+1392,[u'Forex'],mt4,2033,Using the Meta Trader 4 (MT4) Platform
+1393,[],solrcusto2,198837,SolR Customized outline
+1394,"[u'Distributed Applications', u'Cloud Computing', u'Kubernetes', u'Docker', u'Virtualization', u'DevOps']",rancher,201924,Rancher: Manage your Docker containers
+1395,"[u'MBSE', u'SysML']",sysml,3940,Systems Modelling with SysML
+1396,[u'Drupal'],drupal7themes,292,Drupal 7 Themes
+1397,"[u'SQL', u'Oracle', u'PL/SQL']",oplsqlfun,363,ORACLE PL/SQL Fundamentals
+1398,"[u'Statistics', u'R', u'Forecasting']",frcr,1124,Forecasting with R
+1399,[u'Statistics'],statsrsp,155061,Basic to Advance Statistics With Introduction to SPSS and R
+1400,"[u'PowerPoint', u'Presentation Skills']",advpp,155113,Advanced Slide Design in PowerPoint
+1401,"[u'Ruby', u'Design Patterns', u'Programming']",rubywp,15733,Wzorce  projektowe w Ruby
+1402,[u'Risk Management'],credapp,538,Credit Appraisal
+1403,"[u'Scrum', u'Agile']",8525,8525,Testowanie w Agile
+1404,[u'Apache Solr'],solrfts,2849,Apache Solr - Full-Text Search Server
+1405,"[u'Puppet', u'Linux', u'Configuration Management']",3842,3842,Puppet Fundamentals
+1406,"[u'Executive Overview', u'Cloud Computing', u'IaaS', u'Technologies Overview']",cloudsaasiaas,96490,"Cloud, SaaS, IaaS - Practical Overview of Available Options"
+1407,"[u'Human Resources', u'Professional Development', u'Assertiveness']",297,297,Assertiveness
+1408,[],PosSQLbe,209553,Bespoke PostgreSQL Development
+1409,"[u'SOA', u'EDA']",soa2eda,280,SOA 2.0 and EDA
+1410,"[u'Distributed Applications', u'Linux', u'Kubernetes', u'Virtualization', u'LXC', u'Docker']",projectatomic,202516,"Project Atomic: Re-designing the operating system with the LDK (Linux, Docker, Kubernetes) stack."
+1411,[u'Lean'],leanmanagement,206741,Lean Management: Lean management in manufacturing 
+1412,"[u'Web Development', u'Social Media', u'Marketing']",2730,2730,Tworzenie stron internetowych i optymalizacja pod kątem marketingu internetowego
+1413,[u'TCP/IP Networking'],ipsecvpn,3711,Understanding IPSec VPNs
+1414,"[u'Angular2', u'Ionic2']",ionic2,113873,Ionic2
+1415,[u'C-sharp'],psl5,357,Programming in Silverlight 5
+1416,[u'MySQL'],mysqladm,242,MySQL Database Administration
+1417,[],accessdbm,113903,32.- USO DEL MANEJADOR DE BASE DE DATOS ACCESS
+1418,[u'Soft Skills'],changeman2,199169,Zarządzanie zmianą
+1419,[u'Android'],tapandroid,66293,Tworzenie aplikacji na platformie Android
+1420,[u'Microsoft Authorised'],ms-40372,68860,MS-40372 .NET Fundamentals MTA Exam 98-372
+1421,[],CouchBase,200689,CouchBase NoSQL Server Administration
+1422,[u'Big Data'],vespa,209613,Vespa: Serving large-scale data in real-time
+1423,"[u'Machine Learning', u'Apache SystemML']",systemml,134749,Apache SystemML for Machine Learning
+1424,"[u'Embedded Linux', u'Linux', u'Embedded Systems']",embeddedlinux,202704,Embedded Linux: building a system from the ground up
+1425,"[u'Node.js', u'Express']",nodejsadmin,143225,"Node.js concepts & administration, Express.js, V8 engine, monitoring, pm2"
+1426,"[u'Photoshop', u'Computer Graphics']",pinstd17,69019,Pinnacle Studio 17
+1427,[u'Project'],66243,66243,Project Server
+1428,"[u'jBPM', u'Drools']",Drjbpm,205513,Drools and jBPM v6.5
+1429,"[u'JavaScript', u'Microsoft Authorised']",ms-20481,68881,MS-20481 Essentials of Developing Windows Store Apps Using HTML5 and JavaScript MTA Exam 70-481
+1430,[u'Microsoft Authorised'],ms-20486,68968,MS-20486 Developing ASP.NET MVC 4 Web Applications MTA Exam 70-486
+1431,"[u'C-sharp', u'Microsoft .NET']",3121,3121,Introducing C# 6.0 with Visual Studio 2015/2017
+1432,"[u'SQL', u'MySQL']",sqlmysqladv,256,SQL Advanced in MySQL
+1433,"[u'Automation Testing', u'Software Testing', u'Selenium', u'Test Automation', u'Selenium Webdriver', u'Web Application Testing']",selntro,511,Introduction to Selenium
+1434,"[u'MSSQL', u'SQL']",mssql2016,114822,MS SQL Server 2016
+1435,[],ARMDD004,191937,Architecture Design of Device Drivers
+1436,[],elk,203621,"Elastic Stack ELK (Elastic search, Logstash, Kibana) - customised course"
+1437,[u'Marketing'],PRICES102,155181,B2B Power Pricing! 12 Principles of Pricing Strategy To Boost B2B Profits - 1.5 Day Course with Half Day Sales and Marketing Evaluation
+1438,[u'Requirements Engineering'],zwpagile,8971,Zarządzanie wymaganiami w projektach Agile
+1439,[u'Adobe'],aapdfc,3081,Adobe Acrobat - PDF Creating
+1440,"[u'OpenLDAP', u'Directory Services', u'LDAP']",oldapws,98845,OpenLDAP Workshop
+1441,[],traimanag,203825,Training management
+1442,[u'Google Cloud Platform'],cpv200,113800,CPV200: Google Container Engine and Kubernetes
+1443,[u'Software Testing'],practest,8164,Praktyka testowania
+1444,"[u'Software Engineering', u'MBSE', u'Test Automation', u'Software Testing', u'Requirements Engineering']",softengret,95248,"Software Engineering, Requirements Engineering and Testing"
+1445,"[u'Mobile Programming', u'iOS']",iosprog,387,iOS Programming (iPhone/iPad) for Programmers
+1446,"[u'Internet Security', u'Hands on Security']",webap,94184,WEBAP - Web Application Security
+1447,[u'Strategic Management'],csr,191761,Corporate Social Responsibility Fundamentals
+1448,[],sqladvancedcusto,206417,Customized Advanced SQL 
+1449,[],fintech,208637,Fintech: A practical introduction for managers
+1450,"[u'JavaScript', u'Ajax', u'jQuery']",jquery,303,jQuery
+1451,[u'Linux'],rhel67,203341,RHEL 7 – New features for administrators
+1452,"[u'Software Engineering', u'Developer', u'Programming', u'Industrial Automation']",OMRON_PLC,153861,Introduction to OMRON PLC programming
+1453,"[u'Hands on Security', u'Secure Code']",seccode,205473,How to Write Secure Code
+1454,"[u'GCP - Cloud Infrastructure', u'Google Cloud Platform']",gcpdespr,206801,Architecting with Google Cloud Platform: Design and Process
+1455,"[u'Finance', u'Strategic Planning']",779,779,"Międzynarodowe Standardy Rachunkowości i Sprawozdawczości Finansowej (MSR, MSSF) (IAS, IFRS)"
+1456,"[u'Corporate Compliance', u'Internet Security']",ciaa,94177,CIAA - Certificate in Information Assurance Architecture
+1457,[u'Java'],javaph,296,Java Persistence with Hibernate
+1458,[u'Linux'],linuxsysadmin,3064,Administration of Linux System
+1459,"[u'VBA', u'Excel VBA', u'Excel']",vbaexcel,3036,Visual Basic for Applications (VBA) in Excel -  Introduction to programming
+1460,[u'DevOps'],autzabbix,191049,Automated Monitoring with Zabbix
+1461,"[u'Database', u'SQL', u'MySQL']",sqldba,206333,MySQL for Database Administrators
+1462,"[u'Statistics', u'Data Visualization']",datavisR1,146077,Introduction to Data Visualization with R
+1463,[],90155,90155,Hadoop Developer
+1464,"[u'Finance', u'Financial Markets']",finmrkts,23718,Financial Markets
+1465,"[u'Mahout', u'Predictive Analytics', u'Big Data', u'Artificial Intelligence', u'Apache']",apachemdev,67833,Apache Mahout for Developers
+1466,[u'Quantitative Analytics'],StaEcoMod,95344,Statistical and Econometric Modelling 
+1467,"[u'Software Design', u'Java', u'Programming']",dsgpat,3051,Design Patterns - efficient code reusability
+1468,"[u'Yocto Project', u'Embedded Linux']",YoctoProject,209129,Yocto Project
+1469,"[u'event stream processing', u'Big Data', u'Batch processing', u'Stream processing', u'Distributed Systems']",flink,209489,Flink for scalable stream and batch data processing
+1470,"[u'Statistics', u'Programming']",octaveda,90052,Octave for Data Analysis
+1471,"[u'Test Automation', u'Web Application Testing', u'Automation Testing', u'Software Testing']",protractor,206401,Protractor: End-to-end testing for Angular web applications
+1472,"[u'VBA', u'Access', u'Excel VBA', u'Excel']",vbaaccessexcel,95085,VBA For Access & Excel
+1473,[u'Jenetics'],jenetics,134812,Jenetics
+1474,"[u'Blockchain', u'hyperledger', u'ethereum']",blockchaindevcomplete,207557,Blockchain Development: From Ethereum to Hyperledger
+1475,[],drpl8custo2,199101,Drupal 8 for Developers Customized
+1476,"[u'Linux', u'Debian']",debianadmin,381,Debian Administration
+1477,"[u'Enterprise Architecture', u'Software Engineering', u'Software Testing', u'Software Architecture', u'Requirements Engineering']",reqbf,97981,REQB Foundation - przygotowanie do egzaminu
+1478,[u'Big Data'],bigdarch,68727,Big Data Architect
+1479,"[u'Mobile Programming', u'Android', u'Cross Platform Development', u'Progressive applications', u'Web Development', u'iOS']",ProgApp,199340,Progressive applications
+1480,"[u'Soft Skills', u'Management']",rsmart,99901,Reuniones SMART
+1481,"[u'Facebook', u'Social Media']",3246,3246,"Social Media - facebook, twitter, blog, youtube, google+"
+1482,[u'Secure Code'],cl-nsc,154857,".NET, C# and ASP.NET Security Development"
+1483,"[u'JavaScript', u'Ajax']",jsajax,279,Javascript And Ajax
+1484,[u'Tomcat'],apachetomcatw,89965,Working with Apache Tomcat
+1485,"[u'TensorFlow', u'Neural Networks', u'Machine Learning', u'Artificial Intelligence', u'NLP']",Neuralnettf,155177,Neural Networks Fundamentals using TensorFlow as Example
+1486,"[u'Database', u'Data Mining', u'Big Data', u'Machine Learning', u'Business Intelligence']",wdneo4j,94341,Wprowadzenie do Neo4j - grafowej bazy danych
+1487,"[u'Automation Testing', u'Selenium', u'Test Automation', u'Selenium Webdriver', u'JMeter', u'Web Application Testing']",seleniumjmeter,143200,Web Application Testing with Selenium and JMeter
+1488,[],Profoundvis,208233,Programming Foundations with Visual Studio
+1489,"[u'Python', u'NLP', u'NLTK']",python_nltk,113865,Natural Language Processing with Python
+1490,[u'Virtualization'],appvadvanced,207233,App-V: Advanced Techniques and Troubleshooting
+1491,"[u'Percona', u'MySQL']",prcmysql,208109,Percona Server for MySQL
+1492,"[u'Python', u'Bio']",progbio,394,Programming for Biologists
+1493,"[u'PowerPoint', u'Microsoft Office']",3056,3056,Microsoft PowerPoint - creating presentations
+1494,"[u'C#', u'Microsoft .NET', u'Cross-platform development', u'Android', u'iOS', u'Mobile Development']",xamarin,201672,"Xamarin: Build native mobile applications for Android, iOS and Windows from a single C# code base"
+1495,"[u'GCP - Your Gateway to GCP', u'GCP - Cloud Infrastructure', u'AWS', u'Google Cloud Platform']",gcpfaws,206797,Google Cloud Platform Fundamentals for AWS Professionals
+1496,[],sparktensorflowbespoke,142976,Spark for Developers + TensorFlow
+1497,[],SQLCustomized,154509,Customized SQL Training
+1498,"[u'Data Mining', u'Pentaho', u'Business Intelligence']",pdi3,207025,Pentaho Data Integration (PDI) - moduł do przetwarzania danych ETL (poziom zaawansowany)
+1499,"[u'Web Development', u'PHP', u'Web application framework', u'Programming']",cakephp,201584,CakePHP: Rapid web application development
+1500,[u'Soft Skills'],coachs,143057,Coaching - stymulacja i czuwanie nad rozwojem pracowników
+1501,[u'Drupal'],drupal_multilang,95270,Creating multilingual sites in Drupal
+1502,"[u'Caffe', u'Deep Learning']",caffe,142329,Deep Learning for Vision with Caffe
+1503,[u'RabbitMQ'],rabbitmq,89817,RabbitMQ
+1504,[u'Secure Code'],cl-wts,154889,Web Application Security Testing
+1505,[u'Microsoft .NET'],pmsacs,450,"Programming Metro-style Apps with C# (Windows 8, Windows RT, WinRT)"
+1506,[],113900,113900,14.- ADMINISTRACIÓN DE PROYECTOS DE TECNOLOGIAS DE   INFORMACIÓN
+1507,"[u'Data science', u'Machine Learning', u'Neural Networks', u'Artificial Intelligence', u'Deep Learning']",facebooknmt,207857,Facebook NMT: Setting up a neural machine translation system
+1508,[],113905,113905,33.- DESARROLLO DE APLICACIONES WEB CON ASP. NET (V8 NET)
+1509,[],CompEthic,203821,Compliance and Ethics
+1510,"[u'Towards People', u'Presentation Skills', u'Person To Person Skills', u'Train The Trainer']",543212,97966,Public Speaking 101
+1511,"[u'Scrum', u'Test Automation', u'Agile', u'Automation Testing', u'Software Testing']",agiletesting,132121,Introduction to Agile Testing
+1512,[u'R'],mrkanar,2858,Marketing Analytics using R
+1513,"[u'Scrum', u'Strategic Management', u'Strategic Planning', u'Business Analysis', u'Management', u'Project Management', u'UML']",absunu,2727,Analiza biznesowa i systemowa z użyciem notacji UML - warsztat praktyczny dla PO w metodyce Scrum
+1514,"[u'Oracle', u'SQL']",osqlbgn,3079,Oracle SQL for beginners
+1515,[u'Tableau'],tableauvra,114686,Visual Reporting and Analysis with Tableau
+1516,"[u'BPM', u'BPMN', u'BPMS', u'Business Analysis', u'MBSE', u'Technologies Overview', u'UML']",bpaumlbpmn,277,Business Process Analysis with UML and BPMN
+1517,"[u'SQL Server BI', u'Web Development', u'Microsoft .NET']",poshadmin,97461,Administration with Powershell
+1518,[u'Python'],pythonprog,284,Python Programming
+1519,"[u'Nginx', u'Web Server']",httpngx,203665,HTTP fundamentals and Nginx web server
+1520,"[u'LPI', u'Linux']",lpic1-101,311,Linux LPI LPIC-1 Exam 101 Preparation
+1521,[],insurtechiot,207177,Insurtech: IoT for Insurance
+1522,"[u'Android', u'JavaScript', u'iOS', u'Cross Platform Development', u'Mobile Programming']",titanium,202592,Titanium: build native mobile apps using Javascript
+1523,"[u'Distributed Applications', u'Computer', u'Big Data', u'Avro', u'Hadoop', u'Data serialization']",IntroToAvro,199329,Apache Avro: Data serialization for distributed applications
+1524,[u'Systems Modeling'],IntARCEn,146613,Introduction to ARCADIA with Capella
+1525,[u'OpenStack'],osarchd,98018,OpenStack Architecture Design
+1526,"[u'Cassandra', u'Database', u'Big Data', u'NoSQL', u'Database Migration']",scylladb,200673,Scylla database
+1527,"[u'Statistics', u'R']",rintro,380,Introduction to R
+1528,"[u'Database', u'PostgreSQL']",postgresdev,132157,PostgreSQL for Developers
+1529,[u'SOA'],soad,274,Service Oriented Analysis and Design
+1530,"[u'Blockchain', u'ethereum']",blockchainusecase,206833,Blockchain Use Cases for Entrepeneurs and Managers
+1531,"[u'Java', u'Programming']",java8spring,94227,Java 8 and Spring
+1532,"[u'Database', u'NewSQL']",trafodionadm1,95260,Administering Trafodion
+1533,[u'Mercurial'],mercadv,98915,Mercurial Advanced
+1534,"[u'Scrum', u'Agile', u'Project Management']",scrumpdtown,326,Scrum Product Owner
+1535,[u'Secure Code'],cl-jwe,154853,"Advanced Java, JEE and Web Application Security"
+1536,"[u'Financial Crime', u'Finance']",CRS,206929,CRS: Getting started with foreign financial reporting and Automatic Exchange of Information
+1537,"[u'Cloud Foundry', u'Cloud Computing']",CloudInfrastructure,199412,Cloud Infrastructure and Services
+1538,[u'MATLAB'],advmat,204053,Advanced Matlab
+1539,[u'SOA'],archso,97997,Architektury zorientowane na usługi
+1540,"[u'Finance', u'Risk Management']",mancomprisk,492,Compliance and the Management of Compliance Risk
+1541,[u'Software Testing'],8166,8166,Podstawy ISTQB
+1542,[],PRICES106,191197,B2C Power Pricing! 12 Principles of Pricing Strategy To Boost B2C Profits - 1.5 Day Course with 3.5 Day Sales and Marketing Evaluation
+1543,"[u'JavaScript', u'jQuery', u'Nools']",dsguihtml5jsre,94135,"Designing Inteligent User Interface with HTML5, JavaScript and Rule Engines"
+1544,"[u'Soft Skills', u'Management']",814,814,"Essential Management Skills for Executive Assistants, Senior PAs and Administration Professionals"
+1545,[u'C Language'],ansices,100116,Ansi C for Embedded Systems 
+1546,[],sratth,201265,Strategic Thinking Workshop
+1547,"[u'Statistics', u'Data Visualization', u'Data Analysis', u'Data science', u'Image Analysis', u'Data Mining']",scilab,208161,Scilab
+1548,[u'Project Management'],projplan,191721,Project Planning 101
+1549,"[u'SQL Server BI', u'MSSQL', u'Business Intelligence']",3119,3119,Business Intelligence in MS SQL Server 2008
+1550,"[u'Wireshark', u'TCP/IP Networking']",muipv4,201213,Understanding Multicast using IPv4
+1551,[u'Lua'],luacomp,439,Comprehensive Lua
+1552,"[u'Test Automation', u'Automation Testing', u'JMeter']",jmeterfunadv,74872,JMeter Fundamentals and JMeter Advanced
+1553,"[u'PostgreSQL', u'SQL']",pgsqladm,415,PostgreSQL Administration and Development
+1554,[u'Statistics'],samr,3116,Statistic analysis in market research
+1555,"[u'Java with Adobe Flex', u'Mobile Programming', u'Web Development', u'Web application framework', u'Programming']",apacheflex,200013,Getting started with Apache Flex
+1556,"[u'R', u'Predictive Analytics']",predmodr,114682,Predictive Modelling with R
+1557,[u'Adobe'],AdobeTCS,115006,Adobe Technical Communication Suite
+1558,"[u'Deep Learning', u'Neural Networks']",MicrosoftCognitiveToolkit,209113,Microsoft Cognitive Toolkit 2.x
+1559,[u'Android'],androidappdev,2748,Develop Android Applications
+1560,"[u'Data science', u'Data Mining', u'Big Data', u'R']",dsbda,198273,Data Science for Big Data Analytics
+1561,"[u'event stream processing', u'Big Data', u'Batch processing', u'Stream processing']",apex,209525,Apache Apex: Processing big data-in-motion
+1562,"[u'SOA', u'Enterprise Architecture', u'PHP', u'Programming', u'JavaScript', u'Web Services', u'Java']",restapi,3586,REST API - a pattern of exchange of information between sites
+1563,[u'Soft Skills'],66279,66279,Rozmowa telefoniczna - szkolenie dla sprzedaży
+1564,"[u'Person To Person Skills', u'Soft Skills', u'Great Communicator']",efektkom,143041,Efektywna komunikacja interpersonalna i rozwiązywanie konfliktów
+1565,"[u'Corporate Compliance', u'Internet Security']",cgeit,94175,CGEIT – Certified in the Governance of Enterprise IT
+1566,"[u'Web Application Testing', u'Software Testing']",usabilitytesting,207613,Software Usability Testing: Live Workshop
+1567,"[u'AngularJS', u'Angular', u'Angular2']",ang2,146577,Angular 2 Fundamentals
+1568,[u'C-sharp'],pcvs2012,355,Programming in C# 5.0 with Visual Studio 2012
+1569,[u'XML'],appxmlxsdxsl,333,"Building Applications with XML, XSD and XSL"
+1570,"[u'Hadoop', u'Big Data', u'NoSQL']",hbasedev,113239,HBase for Developers
+1571,"[u'Scrum', u'Agile', u'Project Management']",scrummast,198181,Preparation for Professional Scrum Master
+1572,[u'Quantitative Analytics'],surveyrste,95347,"Survey Research, Sampling Techniques & Estimation"
+1573,"[u'Distributed Applications', u'Cloud Computing', u'Microservices']",consul,202060,"Consul: Setting up service discovery, distributed failure detection, and key/value storage over multiple data centers"
+1574,"[u'Hands on Security', u'Secure Code', u'Embedded Systems']",embeddedsecurity,206161,Embedded systems security
+1575,[u'Requirements Engineering'],spnw,8897,Skuteczne pozyskiwanie i negocjowanie wymagań
+1576,[],itilosa,68490,ITIL®: Intermediate Capability Stream: Operational Support & Analysis (OS&A) 
+1577,"[u'Apache', u'Apache Kafka']",kafka1,96665,Distributed Messaging with Apache Kafka
+1578,[u'Magento'],magentomerchants,208557,Magento for Merchants
+1579,[u'Linux'],linuxha,134673,Highly Available Services with DRBD and Pacemaker
+1580,[u'Kraken JS'],krakenjs,142173,Extending Express with Kraken JS
+1581,"[u'Web Services', u'Java']",tsajbossj,74840,Tunning serwerów aplikacyjnych JBoss7 i Jetty 8/9
+1582,"[u'C-sharp', u'Visual Studio', u'Microsoft .NET']",advcfnd,97979,Advanced Core Foundations of .NET 2.0 Development
+1583,"[u'MSSQL', u'Database', u'SQL']",3033,3033,Administering in Microsoft SQL Server
